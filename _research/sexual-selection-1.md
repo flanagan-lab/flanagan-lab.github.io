@@ -14,7 +14,7 @@ Most of the empirical work in the lab on this topic focuses on Syngnathids, the 
 <img src='/images/s_scovelli5_cropped.jpg'>
 
 
-<img align="right" src='/images/20211219_080317.jpg' height='200'> The Flanagan lab is now focusing on native and endemic pipefish species in New Zealand. Micaela Pullen studied the population dynamics of pipefish in a bay in the Canterbury region, and also did ecological work to understand their role in the broader community of animals living in seagrass beds. Fleur van Eyndhoven described the courtship behaviours of the wide-bodied pipefish, <i>Stigmatopora nigra</i> (female pictured below) and found some surprising results about the stereotypical roles of males and females (stay tuned for a publication with more details!). We are continuing our work to better understand the factors driving sexual dimorphism and population differentiation in these charismatic fish. 
+<img align="right" src='/images/20211219_080317.jpg' height='30%'> The Flanagan lab is now focusing on native and endemic pipefish species in New Zealand. Micaela Pullen studied the population dynamics of pipefish in a bay in the Canterbury region, and also did ecological work to understand their role in the broader community of animals living in seagrass beds. Fleur van Eyndhoven described the courtship behaviours of the wide-bodied pipefish, <i>Stigmatopora nigra</i> (female pictured below) and found some surprising results about the stereotypical roles of males and females (stay tuned for a publication with more details!). We are continuing our work to better understand the factors driving sexual dimorphism and population differentiation in these charismatic fish. 
 
 <br>
 <br>
