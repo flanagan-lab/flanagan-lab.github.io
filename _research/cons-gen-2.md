@@ -2,6 +2,7 @@
 title: "How is population decline influenced by evolutionary mechanisms?"
 excerpt: "The Flanagan Lab uses population genetics tools to improve our understanding of the genetic dynamics and factors that contribute to population persistence and fitness. Our lab is using a variety of molecular tools to investigate the evolutionary mechanisms impacting New Zealand populations of kororā, pipefish, and vegetation impacted by dieback disease."
 permalink: /research/cons-gen
+show_date: false
 collection: research
 ---
 
