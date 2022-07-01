@@ -33,8 +33,8 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 
 ### Emily Beasley
 
-<img align="left" src='/images/EmilyBeasley.jpg' width="20%" height="20%"> Emily Beasley is currently working towards a PhD in Biological Sciences. She is using pipefish as a model species to investigate the role of sexual selection in the evolution of sex-biased gene expression. Emily earned her undergraduate honours degree from Saint Mary’s University in Halifax, Nova Scotia, Canada, in 2015. In 2018, she completed her MSc by Research at Middlesex University in London, England. Her current research interests include evolutionary biology, evolutionary game theory, conservation biology, and behavioural ecology. 
-
+<img align="left" src='/images/EmilyBeasley2022.jpg' width="20%" height="20%"> Emily is using three <i>Stigmatopora</i> species of pipefish to investigate the role of sexual selection in the evolution of sex-biased gene expression. Emily earned her undergraduate honours degree from Saint Mary’s University in Halifax, Nova Scotia, Canada, in 2015. In 2018, she completed her MSc by Research at Middlesex University in London, England. Her current research interests include bioinformatics, evolutionary biology, conservation biology, and behavioural ecology. Emily is co-supervised by [Prof. Elissa Cameron (University of Canterbury)](https://www.canterbury.ac.nz/science/contact-us/people/elissa-cameron.html) and [Prof. Bob Wong (Monash University)](https://www.bobwonglab.org/). 
+Email: emily.beasley@pg.canterbury.ac.nz
 <br>
 <br>
 <br>
@@ -47,6 +47,15 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <br>
 <br>
 <br>
+### Cordelia (Didi) Daley
+
+<img align="right" src='/images/Cordelia Daley.jpg' width="30%" height="30%">Cordelia Daley is working towards her Masters in biological science. Cordelia’s thesis project focuses on using genomic techniques to investigate the population structure of the New Zealand pipefish, <i>Stigmatopora nigra</i>. Her research interests include population genomics, evolutionary forces and conservation biology.
+
+
+<br>
+<br>
+<br>
+
 
 ### Jude van Houtte
 
