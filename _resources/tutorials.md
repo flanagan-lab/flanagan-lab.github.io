@@ -19,6 +19,8 @@ These are all guides and tutorials that I've found useful, so I want to aggregat
 
 [How to name files](https://speakerdeck.com/jennybc/how-to-name-files)
 
+[A quick guide to organizing computational biology projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+
 [Ten tips for learning programming](https://www.nature.com/articles/d41586-019-00653-5)
 
 [Intro to Bioinformatics from Wilson-Sayres lab](https://github.com/WilsonSayresLab/BioinformaticsIntroduction/blob/master/README.md)
