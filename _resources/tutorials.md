@@ -77,6 +77,8 @@ I highly recommend the book <i>Practical Computing for Biologists</i>, and it ha
 
 [The Analysis of Biological Data companion website](https://whitlockschluter3e.zoology.ubc.ca/) has code and examples, plus some neat visualisation tools.
 
+[Karl Broman's Tools for Reproducible Research](https://kbroman.org/Tools4RR/pages/schedule.html)
+
 [Intro to Bioinformatics from Wilson-Sayres lab](https://github.com/WilsonSayresLab/BioinformaticsIntroduction/blob/master/README.md)
 
 [Aggregation of bioinformatics resources from Coppola Lab](https://trello.com/b/3geUNeW5/bioinformatics-training-resources-coppola-lab)
