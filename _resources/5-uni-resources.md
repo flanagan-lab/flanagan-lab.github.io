@@ -21,3 +21,5 @@ collection: resources
 [UC Mental Health support](http://www.canterbury.ac.nz/support/health/mental-health/)
 
 A thesis [writing guide](http://canterbury.libguides.com/writingup/writethesis), [formatting guide](http://canterbury.libguides.com/writingup/wordforthesis), and [submission guide](http://canterbury.libguides.com/sharepublish/thesissubmission)
+
+[The Flanagan Lab calendar](The Flanagan lab Google calendar](https://calendar.google.com/calendar/embed?src=h0kb1pr5vg4err5l037mqp9i94%40group.calendar.google.com&ctz=Pacific%2FAuckland)
