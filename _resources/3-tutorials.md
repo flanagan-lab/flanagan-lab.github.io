@@ -25,6 +25,8 @@ collection: resources
 
 The [Genomics Aotearoa Github](https://github.com/GenomicsAotearoa) has a number of tutorials that might be useful.
 
+[Using github in Visual Studio Code](https://www.youtube.com/watch?v=SW3emX9TJ4g)
+
 ### Genomic analysis
 
 The [sandbox](https://sandbox.bio/) page has a large number of interactive tutorials to help you get started with genomic data analysis.
