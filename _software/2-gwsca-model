@@ -1,0 +1,11 @@
+---
+title: "gwsca_simulation_model"
+excerpt: "Genome-wide selection components analysis simulation model"
+show_date: false
+collection: software
+permalink: /software/fsthet
+---
+
+This is a C++ program that simulates SNP data based on a number of parameters, and simulates various sex-specific selection pressures. The source code is available [on GitHub](https://github.com/spflanagan/gwsca_simulation_model). 
+
+This simulation program was published in ["Identifying signatures of sexual selection using genome-wide selection components analysis" in Ecology and Evolution](https://doi.org/10.1002%2Fece3.1546).
