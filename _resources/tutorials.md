@@ -59,7 +59,7 @@ These are all guides and tutorials that I've found useful, so I want to aggregat
 
 [Guide to using EndNote](http://canterbury.libguides.com/endnote)
 
-### General computation skills
+### Data management
 
 [How to name files](https://speakerdeck.com/jennybc/how-to-name-files)
 
@@ -67,13 +67,19 @@ These are all guides and tutorials that I've found useful, so I want to aggregat
 
 [Ten tips for learning programming](https://www.nature.com/articles/d41586-019-00653-5)
 
-[Intro to Bioinformatics from Wilson-Sayres lab](https://github.com/WilsonSayresLab/BioinformaticsIntroduction/blob/master/README.md)
+[A simple guide to organizing data in a spreadsheet](https://www.molecularecologist.com/2020/09/30/simple-rules-for-organizing-data-in-a-spreadsheet/)
 
-[Aggregation of bioinformatics resources from Coppola Lab](https://trello.com/b/3geUNeW5/bioinformatics-training-resources-coppola-lab)
+[Kate Laskowski's guide to data management](https://laskowskilab.faculty.ucdavis.edu/2020/08/03/keeping-a-paper-trail-data-management-skills-for-reproducible-science/)
+
+### Getting started with data analysis and bioinformatics
 
 I highly recommend the book <i>Practical Computing for Biologists</i>, and it has [a companion website with code and examples](http://practicalcomputing.org/)
 
 [The Analysis of Biological Data companion website](https://whitlockschluter3e.zoology.ubc.ca/) has code and examples, plus some neat visualisation tools.
+
+[Intro to Bioinformatics from Wilson-Sayres lab](https://github.com/WilsonSayresLab/BioinformaticsIntroduction/blob/master/README.md)
+
+[Aggregation of bioinformatics resources from Coppola Lab](https://trello.com/b/3geUNeW5/bioinformatics-training-resources-coppola-lab)
 
 ### Github
 
