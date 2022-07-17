@@ -1,6 +1,6 @@
 ---
 title: "Lab Alumni"
-excerpt: "The NIMBioS 2017 Summer Research Experience Students"
+excerpt: "Get to know former lab members"
 permalink: /people/lab-alumni
 show_date: false
 collection: people
