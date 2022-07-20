@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+July 2022: The lab has published our first data paper! It is titled "Seasonal dynamics of faunal diversity and population ecology in an estuarine seagrass bed" and is published in *Estuaries and Coasts*. This is the first paper from Micaela Pullen's MSc (completed in 2021). You can read the paper for free from [Estuaries and Coasts](https://link.springer.com/content/pdf/10.1007/s12237-022-01103-8.pdf).
+
 June 2022: Sarah was spoke about the group's research (especially the research on kororā, the little blue penguins) on Radio New Zealand's Nights with Bryan Crump. [You can listen to the segment as a podcast if you missed it live!](https://www.rnz.co.nz/national/programmes/nights/audio/2018845123/native-species-and-climate-change)
 
 June 2022: Lucy Howell won the Best Poster Award at the New Zealand Birds Conference! You can view her poster [here](https://github.com/flanagan-lab/flanagan-lab.github.io/blob/493e683b96bfc95c83592f1f9d74d0c6e4cb9db0/pdfs/LHowell_OSNZ_poster(1).pdf).
