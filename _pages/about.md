@@ -15,7 +15,7 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
-July 2022: The lab has published our first data paper! It is titled "Seasonal dynamics of faunal diversity and population ecology in an estuarine seagrass bed" and is published in *Estuaries and Coasts*. This is the first paper from Micaela Pullen's MSc (completed in 2021). You can read the paper for free from [Estuaries and Coasts](https://link.springer.com/content/pdf/10.1007/s12237-022-01103-8.pdf).
+July 2022: The lab has published our first data paper! It is titled "Seasonal dynamics of faunal diversity and population ecology in an estuarine seagrass bed" and is published in *Estuaries and Coasts*. This is the first paper from Micaela Pullen's MSc (completed in 2021). You can read the paper for free from [Estuaries and Coasts](https://link.springer.com/content/pdf/10.1007/s12237-022-01103-8.pdf). You can read Sarah's summary on her [blog](https://sarahpflanagan.wordpress.com/2022/07/20/a-year-long-look-at-the-fish-and-other-animals-in-a-single-seagrass-bed/).
 
 June 2022: Sarah was spoke about the group's research (especially the research on kororā, the little blue penguins) on Radio New Zealand's Nights with Bryan Crump. [You can listen to the segment as a podcast if you missed it live!](https://www.rnz.co.nz/national/programmes/nights/audio/2018845123/native-species-and-climate-change)
 
