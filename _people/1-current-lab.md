@@ -56,6 +56,13 @@ Email: emily.beasley@pg.canterbury.ac.nz
 <br>
 <br>
 
+### Ruby O'Neill
+
+<img align="left" src='/images/RubyONeill.jpeg' width="30%" height="30%"> Ruby O'Neill is currently working towards her Masters in biological sciences. Her thesis aims to investigate and characterise the mating systems of New Zealand pipefish (<i>Stigmatopora macropterygia</i>) and potentially look for any differences in hormonal gene expression between pregnant and non-pregnant males. Ruby's research interests include animal behaviour, physiology, genomics and marine biology.  
+
+<br>
+<br>
+<br>
 
 ### Jude van Houtte
 
