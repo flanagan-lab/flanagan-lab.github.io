@@ -21,15 +21,7 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <br>
 <br>
 <br>
-
-### Lucy Howell
-
-<img align="right" src='/images/lucyhowell.png' width="40%" height="40%"> Lucy is an [Aho Hīnātore/Accelerator Scholarship](https://www.canterbury.ac.nz/postgraduate/aho-hinatore-accelerator-scholarship/) PhD student. She is using environmental DNA to study populations of little blue penguins. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/) with [Tammy Steeves](http://www.ucconsert.org/people/) as an associate supervisor.
-
-<br>
-<br>
-<br>
-  
+ 
 
 ### Emily Beasley
 
