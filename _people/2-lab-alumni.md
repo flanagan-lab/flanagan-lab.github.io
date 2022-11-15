@@ -32,6 +32,12 @@ collection: people
 
 ## Summer scholarship students at University of Canterbury
 
+### Jude van Houtte
+
+<img align="right" src='/images/jude-flanagan lab.jpg' width="20%" height="20%"> Jude is an undergraduate student working towards her BSc, majoring in Biological Science. She worked as a summer research student in 2021-2022, where in collaboration with Emily Beasley studying sexual selection and behaviour in sex-role-reversed pipefish. She is interested in conservation, ethology, and evolution, as well as mātauranga Māori and the connection between science and people.
+
+### Other summer students 
+
 2019-2020: Averill Moser-Rust worked with Mads Thomsen, Micaela Pullen, Derek Gerber, and Sarah, investigating the community of fishes in two  seagrass beds in the Canterbury region in New Zealand.
 
 2018-2019: Chavvah Freeman worked with Sarah, studying the evolution of pigmentation genes in pipefish.
