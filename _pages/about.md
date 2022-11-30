@@ -15,7 +15,7 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
-October 2022: Sarah has won the University of Canterbury's Emerging and Early Career Researcher Award!
+October 2022: Sarah has won the University of Canterbury's Emerging and Early Career Researcher Award! Read more about it [in this press release](https://www.canterbury.ac.nz/news/2022/canterbury-researcher-hooks-award-for-study-of-native-fish--.html)
 
 August 2022: Ruby O'Neill has joined the lab for her MSc, which is focused on parentage analysis and molecular dynamics of male pregnancy of the endemic ihe ihu roa (the long-snouted pipefish, <i>Stigmatopora macroptergyia</i>). 
 
