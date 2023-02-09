@@ -15,6 +15,10 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+February 2023: Emily has returned from 6 months living and working in Melbourne, Australia, with her co-supervisor Prof. Bob Wong. We're glad to have her back in Christchurch!
+
+December 2022: Sarah, Coley, and Emily attended the Australasian Evolution Society conference in Canberra, and all three gave talks about our research on pipefish. Reach out if you want to know more about our preliminary results!
+
 October 2022: Sarah has won the University of Canterbury's Emerging and Early Career Researcher Award! Read more about it [in this press release](https://www.canterbury.ac.nz/news/2022/canterbury-researcher-hooks-award-for-study-of-native-fish--.html)
 
 August 2022: Ruby O'Neill has joined the lab for her MSc, which is focused on parentage analysis and molecular dynamics of male pregnancy of the endemic ihe ihu roa (the long-snouted pipefish, <i>Stigmatopora macroptergyia</i>). 
