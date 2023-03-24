@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+March 2023: The team has had a paper published in Nature Ecology & Evolution, titled ["The roles of sexual selection and sexual conflict in shaping patterns of genome and transcriptome variation"](https://rdcu.be/c8jST), with collaborators Bob Wong and Judith Mank.
+
 February 2023: Emily has returned from 6 months living and working in Melbourne, Australia, with her co-supervisor Prof. Bob Wong. We're glad to have her back in Christchurch!
 
 December 2022: Sarah, Coley, and Emily attended the Australasian Evolution Society conference in Canberra, and all three gave talks about our research on pipefish. Reach out if you want to know more about our preliminary results!
