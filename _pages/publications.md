@@ -66,6 +66,9 @@ Co-first authorship is denoted by *.
 
 </ol>
 
+<br>
+<br>
+
 # Other publications
 
 <ol reversed>
@@ -82,6 +85,8 @@ Co-first authorship is denoted by *.
 # Theses
 
 <ol reversed>
+  
+  <li> <span style="color:#239B56">Cox, A.</span> 2023. Insight into the effectomes of Aotearoa _Phythophthora cinnamomi_ isolates by comparative genomics. </li>
   
   <li> <span style="color:#239B56">van Eyndhoven, F.</span> 2022. The role of the novel female ornament in the wide-bodied pipefish, Stigmatapora nigra. http://dx.doi.org/10.26021/12821 <a href="https://ir.canterbury.ac.nz/handle/10092/103722" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
     
