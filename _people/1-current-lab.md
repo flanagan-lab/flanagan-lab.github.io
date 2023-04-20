@@ -1,12 +1,13 @@
 ---
 title: "Current Lab Members"
-excerpt: "<br><img src='/images/Group_2022-06-01.jpg' width='500'>"
+excerpt: "<br><img src='/images/IMG_1115.JPG' width='500'>"
 collection: people
 show_date: false
 permalink: /people/current-lab
 ---
 
 
+<img src='/images/IMG_1097.JPG'>
 
 ### Sarah P. Flanagan
 
