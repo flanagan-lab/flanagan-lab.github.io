@@ -11,7 +11,7 @@ Authors whose names are in <span style="color:#239B56">green</span> are trainees
 Co-first authorship is denoted by *.
 </p>
 
-# Peer-reviewed papers 
+## Peer-reviewed papers 
 
 <ol reversed>
   
@@ -68,7 +68,7 @@ Co-first authorship is denoted by *.
 
 <p></p>
 
-# Other publications
+## Other publications
 
 <ol reversed>
 
@@ -82,7 +82,7 @@ Co-first authorship is denoted by *.
 
 <p></p>
 
-# Theses
+## Theses
 
 <ol reversed>
   
