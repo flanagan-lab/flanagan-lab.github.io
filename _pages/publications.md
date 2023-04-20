@@ -66,8 +66,7 @@ Co-first authorship is denoted by *.
 
 </ol>
 
-<br>
-<br>
+<p></p>
 
 # Other publications
 
@@ -81,7 +80,7 @@ Co-first authorship is denoted by *.
 
 </ol>
 
-<br>
+<p></p>
 
 # Theses
 
