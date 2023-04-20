@@ -7,6 +7,12 @@ permalink: /news-archive/
 # Lab news archive
 
 
+March 2021: Lucy Howell's first paper from her masters research has been published in the New Zealand Journal of Zoology. It is a [review paper on using environmental DNA to monitor Antarctic vertebrates](https://doi-org.ezproxy.canterbury.ac.nz/10.1080/03014223.2021.1900299).
+
+March 2021: Sarah has published a paper on [the genetic basis of freshwater adaptation in pipefish](https://onlinelibrary-wiley-com.ezproxy.canterbury.ac.nz/doi/10.1111/mec.15841). 
+
+February 2021: Fleur van Eyndhoven is continuing her summer scholarship research on pipefish behaviour in her MSc research. She has already filmed >200 hours of pipefish behaviours!
+
 November 2020: Nicole Tosto began her PhD studying pipefish behaviour and genetics! She is currently working with collaborators in the US and plans to join the group in New Zealand in 2021.
 
 March 2020: Sarah had three papers come out this month -- a paper on [changes in gene expression in response to estrogen in pipefish](https://doi-org.ezproxy.canterbury.ac.nz/10.1093/jhered/esaa008), a paper on [a mathematical model of how spatial arrangements of individuals impacts reproductive success](https://esj-journals.onlinelibrary.wiley.com/doi/abs/10.1002/1438-390X.12047) and a whitepaper describing [the why, when, and how of computing in biology classrooms](https://doi.org/10.12688/f1000research.20873.2).
