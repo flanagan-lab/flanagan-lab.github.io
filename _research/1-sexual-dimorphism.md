@@ -11,7 +11,7 @@ In an attempt to address this problem, the lab is pursuing a holistic and integr
 
 To accomplish this the lab uses tools such as RNA sequencing, parentage analysis, mesocosms, and behavioural coding with pipefish as a model system. Pipefish are a prominent example of a sex-role-reversed system where females compete for access to males who then care for the eggs in a brooding structure. They provide a particularly useful model system for this project as the different species are representative of both the spectra of mating systems and the spectra of sexual dimorphisms with females of some species possessing extremely elaborate ornamentation and nearly identical males and females in others. Additionally, pipefish posses no distinct sex chromosomes, meaning there are no parts of the genome inherited by only one sex and little is known about their sexual development. This makes sex-biased gene expression an especially likely way to resolve conflict. Currently the lab is working with <i>Syngnathus</i> spp. (pictured below) located throughout the States and <i>Stigmatopora</i> spp. found across New Zealand and Australia. 
 
-<img align="left" src='/images/SFloridae.jpg' width="33%" height="33%"> <img align="middle" src='/images/SFuscus.jpg' width="33%" height="33%"> <img align="right" src='/images/Sscovelli.jpg' width="30%" height="30%">
+<img align="center" src='/images/syngnathussp.jpg' width="110%" height="110%"> 
 
 Some relevant papers include:
 
