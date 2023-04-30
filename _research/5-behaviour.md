@@ -5,10 +5,11 @@ permalink: /research/behaviour
 excerpt: 'We study the behaviours of animals such as pipefish and humpback whales to better understand the drivers of animal behaviour and to gain a better understanding of their behavioural ecology.'
 ---
 
-Add some paragraphs about the work. Include photos!
+Stay tuned for more details! In the meantime, check out [this video of wide-bodied pipefish courtship behaviour](https://youtube.com/shorts/R3dnzZz7MOE?feature=share)
 
 
-Some relevant papers and theses include:
+
+### Some relevant papers and theses include:
 
 van Eyndhoven, F. 2022. The role of the novel female ornament in the wide-bodied pipefish, Stigmatapora nigra. http://dx.doi.org/10.26021/12821
 
