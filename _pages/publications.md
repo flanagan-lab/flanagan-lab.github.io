@@ -11,7 +11,7 @@ Authors whose names are in <span style="color:#239B56">green</span> are trainees
 Co-first authorship is denoted by *.
 </p>
 
-## Peer-reviewed papers 
+<h2>Peer-reviewed papers</h2>
 
 <ol reversed>
   
@@ -64,12 +64,12 @@ Co-first authorship is denoted by *.
 
   <li> <strong>Flanagan SP</strong>, Wilson WH, Jones KL, and Lance SL. 2010. Development and characterization of twelve polymorphic microsatellite loci in the Bog Copper, <em>Lycaena epixanthe. </em>Conservation Genetics Resources. 2(1): 159-161. <a href="https://sarahpflanagan.files.wordpress.com/2016/09/flanagan-et-al-2009.pdf" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">pdf</a> </li>
   
-<p>
+
 </ol>
 
 <p></p>
 
-## Other publications
+<h2>Other publications</h2>
 
 <ol reversed>
 
@@ -83,7 +83,7 @@ Co-first authorship is denoted by *.
 
 <p></p>
 
-## Theses
+<h2>Theses</h2>
 
 <ol reversed>
   
