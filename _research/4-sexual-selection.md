@@ -23,7 +23,7 @@ Sexual selection also provides opportunities to model evolutionary complexity. I
 
 
 
-Some relevant papers and theses include:
+### Some relevant papers and theses include:
 
 van Eyndhoven, F. 2022. The role of the novel female ornament in the wide-bodied pipefish, Stigmatapora nigra. http://dx.doi.org/10.26021/12821 <a href="https://ir.canterbury.ac.nz/handle/10092/103722" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a>
 
