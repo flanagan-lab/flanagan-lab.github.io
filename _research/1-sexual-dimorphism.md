@@ -13,7 +13,7 @@ To accomplish this the lab uses tools such as RNA sequencing, parentage analysis
 
 <img align="center" src='/images/syngnathussp.jpg' width="110%" height="110%"> 
 
-Some relevant papers include:
+### Some relevant papers include:
 
 Tosto NM, Beasley ER, Wong BBM, Mank JE, Flanagan SP. 2023. The roles of sexual selection and sexual conflict in shaping patterns of genome and transcriptome variation. Nature Ecology & Evolution. https://doi.org/10.1038/s41559-023-02019-7. <a href="https://rdcu.be/c8jST"  target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>
 
