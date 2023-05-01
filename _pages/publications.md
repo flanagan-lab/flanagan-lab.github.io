@@ -63,7 +63,6 @@ Co-first authorship is denoted by *.
   <li> <strong>Flanagan SP</strong>, and Bevier CR. 2014. Do male activity and territory quality affect female association time in the Brown Anole, <em>Anolis sagrei</em>? Ethology. 120 (4): 365-374. <a href="http://onlinelibrary.wiley.com/doi/10.1111/eth.12213/abstract" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link to paper</a> </li>
 
   <li> <strong>Flanagan SP</strong>, Wilson WH, Jones KL, and Lance SL. 2010. Development and characterization of twelve polymorphic microsatellite loci in the Bog Copper, <em>Lycaena epixanthe. </em>Conservation Genetics Resources. 2(1): 159-161. <a href="https://sarahpflanagan.files.wordpress.com/2016/09/flanagan-et-al-2009.pdf" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">pdf</a> </li>
-  
 
 </ol>
 
