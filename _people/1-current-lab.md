@@ -40,6 +40,14 @@ Email: emily.beasley@pg.canterbury.ac.nz
 <br>
 <br>
 <br>
+
+### Juan Lee
+
+<img align="right" src='/images/JuanLee.jpeg' width="30%" height="30%"> Juan is a PhD student working on pipefish taxonomy, phylogeography, and population genetics. His MSc work in South Korea focused on behaviour and developmental biology, and he is exciting to be working on syngnathid genetics for his PhD. 
+<br>
+<br>
+<br>
+
 ### Cordelia (Didi) Daley
 
 <img align="right" src='/images/CordeliaDaley.jpg' width="30%" height="30%">Cordelia Daley is working towards her Masters in biological science. Cordelia’s thesis project focuses on using genomic techniques to investigate the population structure of the New Zealand pipefish, <i>Stigmatopora nigra</i>. Her research interests include population genomics, evolutionary forces and conservation biology.
