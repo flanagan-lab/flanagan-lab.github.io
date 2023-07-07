@@ -15,6 +15,16 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+June 2023: Alex Cox was awarded a Bioprotection Aotearoa travel scholarship! She will be presenting at Queenstown Research Week -- stop by to say hello if you are there!
+
+June 2023: Coley and Sarah presented research from the lab at the Evolution 2023 meeting in Albuquerque. 
+
+May 2023: Coley Tosto received travel scholarships to attend Evolution 2023 in Albuquerque!
+
+May 2023: Juan Lee and Alex Cox commenced their PhD research with Sarah. We are very excited to be growing the lab!
+
+April 2023: Coley's undergraduate research was published in Frontiers in Marine Science, titled ["The development of a quantification method for measuring iridescence using sexually selected traits in the Gulf pipefish (_Syngnathus scovelli_)"](https://www.frontiersin.org/articles/10.3389/fmars.2023.1127790/full), with her co-supervisors Emily Rose and Heather Mason. 
+
 April 2023: Juan Lee was awarded a UC Doctoral Scholarship to do his PhD with Sarah, studying pipefish evolution. He arrived from South Korea and will be starting his PhD in May.
 
 April 2023: Analese Fon has joined the lab as a BSc(Hons) student, co-supervised by Travis Horton, and is studying humpback whale behaviour. 
@@ -48,12 +58,6 @@ February 2022: The research team has received funding from the University of Can
 Januray 2022: Coley Tosto, who began her PhD in November 2020, finally arrived in New Zealand to complete the remainder of her PhD!
 
 Check out how Sarah spent her time in 2021 [in her latest blog post!](https://sarahpflanagan.wordpress.com/2022/01/04/working-in-the-age-of-lockdowns/)
-
-December 2021: Sarah was awarded UC's Faculty of Science Emerging Researcher Award!
-
-November 2021: Emily Beasley has joined the lab as a new PhD student, and we are also welcoming Jude van Houtte as a summer student! Starting in mid-November are two co-supervised students, Alexandra Cox (MSc) and Andrew McCabe (summer BSc student), who co-supervised by Sarah and [Claudia Meisrimler](https://www.canterbury.ac.nz/science/contact-us/people/claudia-meisrimler.html).
-
-September 2021: Lucy Howell has started her PhD  in the lab!
 
 See older news at the [news archive](https://flanagan-lab.github.io/news-archive/)
 
