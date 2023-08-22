@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+August 2023: Sarah was awarded a Distributed Leadership in Teaching Programme scholarship, so she will be spending one day each week working with the Future Learning & Development team on enhancing her Biological Data Analysis course. 
+
 July 2023: Katrin Clark has joined the lab as a Research Assistant, helping on kororā projects. Welcome Katrin!
 
 June 2023: Alex Cox was awarded a Bioprotection Aotearoa travel scholarship! She will be presenting at Queenstown Research Week -- stop by to say hello if you are there!
