@@ -8,9 +8,17 @@ collection: people
 
 ## Masters students at University of Canterbury
 
+### Ruby O'Neill
+
+<img align="left" src='/images/RubyONeill.jpeg' width="30%" height="30%"> Ruby O'Neill submitted her masters thesis in August 2023. Her thesis focussed on New Zealand pipefish (<i>Stigmatopora macropterygia</i>) and differential gene expression between males and females.  
+
+<br>
+<br>
+<br>
+
 ### Lucy Howell
 
-<img align="right" src='/images/lucyhowell.png' width="40%" height="40%"> Lucy is an [Aho Hīnātore/Accelerator Scholarship](https://www.canterbury.ac.nz/postgraduate/aho-hinatore-accelerator-scholarship/) PhD student. She is using environmental DNA to study populations of little blue penguins. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/) with [Tammy Steeves](http://www.ucconsert.org/people/) as an associate supervisor.
+<img align="right" src='/images/lucyhowell.png' width="40%" height="40%"> Lucy completed her Masters in Antarctic Studies, working with Sarah and [Michelle LaRue](https://www.drmichellelarue.com/). Lucy is now a [Aho Hīnātore/Accelerator Scholarship](https://www.canterbury.ac.nz/postgraduate/aho-hinatore-accelerator-scholarship/) PhD student with [Tammy Steeves](http://www.ucconsert.org/people/).
 
 <br>
 <br>
@@ -37,6 +45,8 @@ collection: people
 <img align="right" src='/images/jude-flanagan lab.jpg' width="20%" height="20%"> Jude is an undergraduate student working towards her BSc, majoring in Biological Science. She worked as a summer research student in 2021-2022, where in collaboration with Emily Beasley studying sexual selection and behaviour in sex-role-reversed pipefish. She is interested in conservation, ethology, and evolution, as well as mātauranga Māori and the connection between science and people.
 
 ### Other summer students 
+
+2022-2023: Georgia Gwatkin and Alexandra Strang worked with Sarah and [Michelle LaRue](https://www.drmichellelarue.com/) in a collaborative project with Pōhatu Penguins, conducting conservation monitoring of kororā and performing a literature review on research conducted in Akaroa Harbour.
 
 2019-2020: Averill Moser-Rust worked with Mads Thomsen, Micaela Pullen, Derek Gerber, and Sarah, investigating the community of fishes in two  seagrass beds in the Canterbury region in New Zealand.
 
