@@ -50,16 +50,6 @@ Email: emily.beasley@pg.canterbury.ac.nz
 <br>
 <br>
 
-### Cordelia (Didi) Daley
-
-<img align="right" src='/images/CordeliaDaley.jpg' width="30%" height="30%">Cordelia Daley is working towards her Masters in biological science. Cordelia’s thesis project focuses on using genomic techniques to investigate the population structure of the New Zealand pipefish, <i>Stigmatopora nigra</i>. Her research interests include population genomics, evolutionary forces and conservation biology.
-
-
-<br>
-<br>
-<br>
-
-
 
 ### Analese Fon
 
