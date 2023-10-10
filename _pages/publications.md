@@ -70,7 +70,7 @@ Co-first authorship is denoted by *.
 
 <p></p>
 
-<h2>Other publications</h2>
+<h2>Other outputs</h2>
 
 <ol reversed>
 
@@ -88,13 +88,13 @@ Co-first authorship is denoted by *.
 
 <ol reversed>
   
-  <li> <span style="color:#239B56">Cox, A.</span> 2023. Insight into the effectomes of Aotearoa _Phythophthora cinnamomi_ isolates by comparative genomics. </li>
+  <li> <span style="color:#239B56">Cox, A.</span> 2023. Insight into the effectomes of Aotearoa <i>Phythophthora cinnamomi</i> isolates by comparative genomics. <a href="https://ir.canterbury.ac.nz/items/cfa6bec3-4c00-415d-91c7-b75cb9e3446b" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a></li>
   
-  <li> <span style="color:#239B56">van Eyndhoven, F.</span> 2022. The role of the novel female ornament in the wide-bodied pipefish, Stigmatapora nigra. http://dx.doi.org/10.26021/12821 <a href="https://ir.canterbury.ac.nz/handle/10092/103722" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+  <li> <span style="color:#239B56">van Eyndhoven, F.</span> 2022. The role of the novel female ornament in the wide-bodied pipefish, <i>Stigmatapora nigra</i>. http://dx.doi.org/10.26021/12821 <a href="https://ir.canterbury.ac.nz/handle/10092/103722" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
     
   <li> <span style="color:#239B56">Howell, L.</span> 2021. Detecting Antarctic and New Zealand vertebrates using environmental DNA (eDNA). http://dx.doi.org/10.26021/10882. <a href="https://ir.canterbury.ac.nz/handle/10092/101828" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
   
-  <li> <span style="color:#239B56">Gerber, DA</span> [co-supervised by [Mads Thomsen](https://www.thomsenlab.com/)]. 2021. Associations between estuarine foundation species and their effect on biodiversity across latitudes and seasons. http://dx.doi.org/10.26021/11369 <a href="https://ir.canterbury.ac.nz/handle/10092/102320" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+  <li> <span style="color:#239B56">Gerber, DA</span> (co-supervised by [Mads Thomsen](https://www.thomsenlab.com/)). 2021. Associations between estuarine foundation species and their effect on biodiversity across latitudes and seasons. http://dx.doi.org/10.26021/11369 <a href="https://ir.canterbury.ac.nz/handle/10092/102320" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
     
   <li> <span style="color:#239B56">Pullen, M.</span> 2021. The use of seagrass (Zostera muelleri) habitat types by seagrass communities in New Zealand. http://dx.doi.org/10.26021/11188. <a href="https://ir.canterbury.ac.nz/handle/10092/102132" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
 
