@@ -15,9 +15,13 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+October 2023: Sarah has received a small grant from the University of Canterbury Biosecurity Innovations research cluster to fund research on penguin ticks in collaboration with [Chris Niebuhr at Manaaki Whenua | Landcare Research](https://www.landcareresearch.co.nz/about-us/our-people/chris-niebuhr). 
+
 August 2023: Sarah was awarded a Distributed Leadership in Teaching Programme scholarship, so she will be spending one day each week working with the Future Learning & Development team on enhancing her Biological Data Analysis course. 
 
 July 2023: Katrin Clark has joined the lab as a Research Assistant, helping on kororā projects. Welcome Katrin!
+
+July 2023: Sarah and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html) have been awarded a grant from Genomics Aotearoa to generate whole-genome sequence data for paikea | humpback whales!
 
 June 2023: Alex Cox was awarded a Bioprotection Aotearoa travel scholarship! She will be presenting at Queenstown Research Week -- stop by to say hello if you are there!
 
