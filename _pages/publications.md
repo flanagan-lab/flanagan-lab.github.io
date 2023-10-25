@@ -14,7 +14,9 @@ Co-first authorship is denoted by *.
 <h2>Peer-reviewed papers</h2>
 
 <ol reversed>
-  
+
+ <li><span style="color:#239B56">van Eyndhoven F</span>, Cameron EZ, <strong> Flanagan SP</strong>. (2023) High rates of male courtship in a female-ornamented pipefish. The Royal Society Open Science. 10: 231428. 231428.<a href="https://royalsocietypublishing.org/doi/10.1098/rsos.231428" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/van-eyndhoven-et-al-2023-high-rates-of-male-courtship-in-a-female-ornamented-pipefish.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a></li>
+ 
  <li><span style="color:#239B56">Tosto NM</span>, Rose E, <strong>Flanagan SP</strong>, Mason HD. (2023) The development of a quantification method for measuring iridescence using sexually selected traits in the Gulf pipefish (<i>Syngnathus scovelli</i>). Frontiers in Marine Science. 10: 1127790 <a href="https://doi.org/10.3389/fmars.2023.1127790"  target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/fmars-10-1127790.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a></li>
  
   <li><span style="color:#239B56">Tosto NM</span>, <span style="color:#239B56">Beasley ER</span>, Wong BBM, Mank JE, <strong>Flanagan SP</strong> (2023) The roles of sexual selection and sexual conflict in shaping patterns of genome and transcriptome variation. Nature Ecology & Evolution. https://doi.org/10.1038/s41559-023-02019-7. <a href="https://rdcu.be/c8jST"  target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a></li>
