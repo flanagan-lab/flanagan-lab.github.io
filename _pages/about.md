@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+October 2023: Coley won the School of Biological Science's Best Paper Award and the Senior Demonstrator award at the Annual Biology Conference. Congratulations, Coley!
+
 October 2023: Fleur van Eyndhoven's masters research was published in _The Royal Society Open Science_, titled ["High rates of male courtship in a female-ornamented pipefish"](https://royalsocietypublishing.org/doi/10.1098/rsos.231428). It is open access so everyone can take a look!
 
 October 2023: Sarah has received a small grant from the University of Canterbury Biosecurity Innovations research cluster to fund research on penguin ticks in collaboration with [Chris Niebuhr at Manaaki Whenua - Landcare Research](https://www.landcareresearch.co.nz/about-us/our-people/chris-niebuhr). 
