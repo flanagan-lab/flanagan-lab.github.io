@@ -50,8 +50,3 @@ Email: emily.beasley@pg.canterbury.ac.nz
 <br>
 <br>
 
-
-### Analese Fon
-
-<img align="right" src='/images/AnaleseFon.jpeg' width="30%" height="30%"> Analese is a student currently working towards a Bachelor of Environmental Science majoring in Ecosystem Health and Biosecurity at the University of Canterbury. Her honours research project aims to investigate the use of drones as a non-invasive monitoring tool to understand the behaviours of endangered humpback whales (*Megaptera noaeangliae*). Co-supervised by Sarah Flanagan and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html), Analese's research interests are animal behaviour and conservation biology.
-
