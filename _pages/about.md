@@ -21,6 +21,8 @@ October 2023: Fleur van Eyndhoven's masters research was published in _The Royal
 
 October 2023: Sarah has received a small grant from the University of Canterbury Biosecurity Innovations research cluster to fund research on penguin ticks in collaboration with [Chris Niebuhr at Manaaki Whenua - Landcare Research](https://www.landcareresearch.co.nz/about-us/our-people/chris-niebuhr). 
 
+August 2023: Ruby O'Neill submitted her MSc thesis -- congratulations on the achievement!
+
 August 2023: Sarah was awarded a Distributed Leadership in Teaching Programme scholarship, so she will be spending one day each week working with the Future Learning & Development team on enhancing her Biological Data Analysis course. 
 
 July 2023: Katrin Clark has joined the lab as a Research Assistant, helping on kororā projects. Welcome Katrin!
