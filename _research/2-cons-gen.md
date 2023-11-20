@@ -17,10 +17,11 @@ White flippered kororā chick in a nest box at Pohatu. Credit Lucy Howell
 
 
 <img src="/images/P.Pluvialis.png">
-Phytophthora Pluvialis. Credit Sophie Eccersall
+*Phytophthora Pluvialis*. Credit Sophie Eccersall
 
+<br>
 
-Some relevant papers include:
+### Some relevant papers include:
 
 <span style="color:#239B56">Howell LA</span>, LaRue M, <strong>Flanagan SP</strong> (2021) Environmental DNA as a tool for monitoring Antarctic vertebrates. New Zealand Journal of Zoology. DOI: 10.1080/03014223.2021.1900299. <a href="https://doi.org/10.1080/03014223.2021.1900299" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Howell%20et%20al%202021%20-%20environmental%20DNA%20as%20a%20monitoring%20tool.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a>, <a href="https://sarahpflanagan.wordpress.com/2021/06/23/edna-antarctica/" target="_blank" rel="noreferrer noopener" aria-label="my summary (opens in a new tab)" style="color: rgb(82, 173, 200)">my summary</a>
 

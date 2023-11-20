@@ -11,13 +11,19 @@ Authors whose names are in <span style="color:#239B56">green</span> are trainees
 Co-first authorship is denoted by *.
 </p>
 
-# Peer-reviewed papers 
+<h2>Peer-reviewed papers</h2>
 
 <ol reversed>
+
+ <li><span style="color:#239B56">van Eyndhoven F</span>, Cameron EZ, <strong> Flanagan SP</strong>. (2023) High rates of male courtship in a female-ornamented pipefish. The Royal Society Open Science. 10: 231428. 231428.<a href="https://royalsocietypublishing.org/doi/10.1098/rsos.231428" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/van-eyndhoven-et-al-2023-high-rates-of-male-courtship-in-a-female-ornamented-pipefish.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a>, <a href="https://zenodo.org/records/10005680" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">associated code</a>, <a href="https://doi.org/10.5281/zenodo.7735430" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">data</a></li>
+ 
+ <li><span style="color:#239B56">Tosto NM</span>, Rose E, <strong>Flanagan SP</strong>, Mason HD. (2023) The development of a quantification method for measuring iridescence using sexually selected traits in the Gulf pipefish (<i>Syngnathus scovelli</i>). Frontiers in Marine Science. 10: 1127790 <a href="https://doi.org/10.3389/fmars.2023.1127790"  target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/fmars-10-1127790.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a></li>
+ 
+  <li><span style="color:#239B56">Tosto NM</span>, <span style="color:#239B56">Beasley ER</span>, Wong BBM, Mank JE, <strong>Flanagan SP</strong> (2023) The roles of sexual selection and sexual conflict in shaping patterns of genome and transcriptome variation. Nature Ecology & Evolution. https://doi.org/10.1038/s41559-023-02019-7. <a href="https://rdcu.be/c8jST"  target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a></li>
+    
+  <li>Johnson BD, Anderson AP, Small CM, Rose E, <strong>Flanagan SP</strong>, Hendrickson-Rose C, and Jones AG (2022) The evolution of the testis transcriptome in pregnant male pipefishes and seahorses. Evolution. DOI: 10.1111/evo.14579. <a href="https://doi.org/10.1111/evo.14579"  target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Johnson_Evolution2022.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a></li>
   
-  <li>Johnson BD, Anderson AP, Small CM, Rose E, <strong>Flanagan SP</strong>, Hendrickson-Rose C, and Jones AG (2022) The evolution of the testis transcriptome in pregnant male pipefishes and seahorses. Evolution. DOI: 10.1111/evo.14579. <a href="https://doi.org/10.1111/evo.14579"  target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Johnson_Evolution2022" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a></li>
-  
-  <li> <span style="color:#239B56">Pullen M</span>, <span style="color:#239B56">Gerber D</span>, Thomsen MS, <strong>Flanagan SP</strong> (2022) Seasonal dynamics of faunal diversity and population ecology in an estuarine seagrass bed. Estuaries and Coasts. DOI: 10.1007/s12237-022-01103-8. <a href="https://doi.org/10.1007/s12237-022-01103-8" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Pullen2022_Article_SeasonalDynamicsOfFaunalDivers.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a>, <a href="https://zenodo.org/account/settings/github/repository/spflanagan/ecology-duvauchelle#" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">associated code</a>, <a href="https://zenodo.org/record/6800784" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">data</a>, <a href="https://sarahpflanagan.wordpress.com/?p=2002" target="_blank" rel="noreferrer noopener" aria-label="my summary (opens in a new tab)" style="color: rgb(82, 173, 200)">my summary</a> </li>
+  <li> <span style="color:#239B56">Pullen M</span>, <span style="color:#239B56">Gerber D</span>, Thomsen MS, <strong>Flanagan SP</strong> (2022) Seasonal dynamics of faunal diversity and population ecology in an estuarine seagrass bed. Estuaries and Coasts. DOI: 10.1007/s12237-022-01103-8. <a href="https://doi.org/10.1007/s12237-022-01103-8" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper (open access)</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Pullen2022_Article_SeasonalDynamicsOfFaunalDivers.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a>, <a href="https://zenodo.org/account/settings/github/repository/spflanagan/ecology-duvauchelle#" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">associated code</a>, <a href="https://zenodo.org/record/6800784" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">data</a>, <a href="https://sarahpflanagan.wordpress.com/?p=2002" target="_blank" rel="noreferrer noopener" aria-label="my summary (opens in a new tab)" style="color: rgb(82, 173, 200)">my summary</a> </li>
     
 
   <li> <span style="color:#239B56">Howell LA</span>, LaRue M, <strong>Flanagan SP</strong> (2021) Environmental DNA as a tool for monitoring Antarctic vertebrates. New Zealand Journal of Zoology. DOI: 10.1080/03014223.2021.1900299. <a href="https://doi.org/10.1080/03014223.2021.1900299" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Howell%20et%20al%202021%20-%20environmental%20DNA%20as%20a%20monitoring%20tool.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a>, <a href="https://sarahpflanagan.wordpress.com/2021/06/23/edna-antarctica/" target="_blank" rel="noreferrer noopener" aria-label="my summary (opens in a new tab)" style="color: rgb(82, 173, 200)">my summary</a> </li>
@@ -64,7 +70,9 @@ Co-first authorship is denoted by *.
 
 </ol>
 
-# Other publications
+<p></p>
+
+<h2>Other outputs</h2>
 
 <ol reversed>
 
@@ -76,18 +84,21 @@ Co-first authorship is denoted by *.
 
 </ol>
 
+<p></p>
 
-# Theses
+<h2>Theses</h2>
 
 <ol reversed>
   
-  <li> van Eyndhoven, F. 2022. The role of the novel female ornament in the wide-bodied pipefish, Stigmatapora nigra. http://dx.doi.org/10.26021/12821 <a href="https://ir.canterbury.ac.nz/handle/10092/103722" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
-    
-  <li> Howell, L. 2021. Detecting Antarctic and New Zealand vertebrates using environmental DNA (eDNA). http://dx.doi.org/10.26021/10882. <a href="https://ir.canterbury.ac.nz/handle/10092/101828" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+  <li> <span style="color:#239B56">Cox, A.</span> 2023. Insight into the effectomes of Aotearoa <i>Phythophthora cinnamomi</i> isolates by comparative genomics. <a href="https://ir.canterbury.ac.nz/items/cfa6bec3-4c00-415d-91c7-b75cb9e3446b" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a></li>
   
-  <li> Gerber, DA [co-supervised]. 2021. Associations between estuarine foundation species and their effect on biodiversity across latitudes and seasons. http://dx.doi.org/10.26021/11369 <a href="https://ir.canterbury.ac.nz/handle/10092/102320" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+  <li> <span style="color:#239B56">van Eyndhoven, F.</span> 2022. The role of the novel female ornament in the wide-bodied pipefish, <i>Stigmatapora nigra</i>. http://dx.doi.org/10.26021/12821 <a href="https://ir.canterbury.ac.nz/handle/10092/103722" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
     
-  <li> Pullen, M. 2021. The use of seagrass (Zostera muelleri) habitat types by seagrass communities in New Zealand. http://dx.doi.org/10.26021/11188. <a href="https://ir.canterbury.ac.nz/handle/10092/102132" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+  <li> <span style="color:#239B56">Howell, L.</span> 2021. Detecting Antarctic and New Zealand vertebrates using environmental DNA (eDNA). http://dx.doi.org/10.26021/10882. <a href="https://ir.canterbury.ac.nz/handle/10092/101828" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+  
+  <li> <span style="color:#239B56">Gerber, DA</span> (co-supervised by [Mads Thomsen](https://www.thomsenlab.com/)). 2021. Associations between estuarine foundation species and their effect on biodiversity across latitudes and seasons. http://dx.doi.org/10.26021/11369 <a href="https://ir.canterbury.ac.nz/handle/10092/102320" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+    
+  <li> <span style="color:#239B56">Pullen, M.</span> 2021. The use of seagrass (Zostera muelleri) habitat types by seagrass communities in New Zealand. http://dx.doi.org/10.26021/11188. <a href="https://ir.canterbury.ac.nz/handle/10092/102132" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
 
 
 </ol>

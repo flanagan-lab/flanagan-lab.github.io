@@ -1,12 +1,16 @@
 ---
 title: "Join the lab"
-excerpt: "Find out how you can get involved!"
+excerpt: "We are currently recruiting two summer students! <br><img src='/images/Summer research project kororā.png' width='500'>"
 collection: people
 show_date: false
 permalink: /people/join
 ---
 
 ## Join the lab
+
+### We are currently recruiting TWO summer scholarship students!
+
+Email sarah.flanagan@canterbury.ac.nz if you are a currently enrolled UC student interested in either of these opportunities!
 
 ### Prospective postgraduate (masters or PhD) students
 

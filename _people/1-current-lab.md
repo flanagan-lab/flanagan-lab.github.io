@@ -1,16 +1,17 @@
 ---
 title: "Current Lab Members"
-excerpt: "<br><img src='/images/Group_2022-06-01.jpg' width='500'>"
+excerpt: "<br><img src='/images/IMG_1115.JPG' width='500'>"
 collection: people
 show_date: false
 permalink: /people/current-lab
 ---
 
 
+<img src='/images/IMG_1097.JPG'>
 
 ### Sarah P. Flanagan
 
-<img align="left" src='/images/IMG_20190717_152944_exported_932_1570595349060.jpg' height='266' width='200'> Dr. Sarah Flanagan is a Senior Lecturer in Evolutionary Biology in the [School of Biological Sciences at the University of Canterbury](http://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/) in Christchurch, New Zealand. She earned her Bachelor of Arts in Biology from Colby College in Waterville, Maine, USA in 2011. In 2016 she completed her PhD in Biology with [Adam Jones](https://pipefishguysite.wordpress.com/) at Texas A&M University, and then was a postdoctoral fellow at the [National Institute for Mathematical and Biological Synthesis](http://www.nimbios.org/) at the University of Tennessee, Knoxville. 
+<img align="left" src='/images/SarahFlanagan2022.jpeg' height='266' width='200'> Dr. Sarah Flanagan is a Senior Lecturer in Evolutionary Biology in the [School of Biological Sciences at the University of Canterbury](http://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/) in Christchurch, New Zealand. She earned her Bachelor of Arts in Biology from Colby College in Waterville, Maine, USA in 2011. In 2016 she completed her PhD in Biology with [Adam Jones](https://pipefishguysite.wordpress.com/) at Texas A&M University, and then was a postdoctoral fellow at the [National Institute for Mathematical and Biological Synthesis](http://www.nimbios.org/) at the University of Tennessee, Knoxville. 
 
 Sarah's research focuses on the evolution of complex traits and how selection interacts with the genome. The lab's research activities fall into two major categories: (1) understanding how sexual selection acts on traits and shapes mating systems and (2) investigating the genomic basis of traits, including the signature selection leaves on the genome. Read more about Sarah on her [personal website]( https://sarahpflanagan.wordpress.com/), where she maintains a blog.
 
@@ -21,15 +22,7 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <br>
 <br>
 <br>
-
-### Lucy Howell
-
-<img align="right" src='/images/lucyhowell.png' width="40%" height="40%"> Lucy is an [Aho Hīnātore/Accelerator Scholarship](https://www.canterbury.ac.nz/postgraduate/aho-hinatore-accelerator-scholarship/) PhD student. She is using environmental DNA to study populations of little blue penguins. She is co-supervised by Sarah and [Michelle LaRue](https://www.drmichellelarue.com/) with [Tammy Steeves](http://www.ucconsert.org/people/) as an associate supervisor.
-
-<br>
-<br>
-<br>
-  
+ 
 
 ### Emily Beasley
 
@@ -41,23 +34,19 @@ Email: emily.beasley@pg.canterbury.ac.nz
 
 ### Alexandra Cox
 
-<img align="left" src='/images/AlexandraCox.jpeg' width="30%" height="30%"> Alexandra is a Masters student co-supervised by Sarah and [Dr Claudia Meisrimler](https://www.canterbury.ac.nz/science/contact-us/people/claudia-meisrimler.html), whose thesis project is supported by the [Bioprotection Aotearoa Center of Research Excellence](https://bioprotection.org.nz/). Her work focuses on the parasitic oomycete, *Phytophthora cinnamomi* and identifying the genes responsible for its pathogenicity. By annotating the genome of *P. cinnamomi*, Alexandra’s work will contribute to a larger effort in developing counter measures against this invasive species. Her main research interests are bioinformatics, molecular genetics, plant biology and conservation.
-
-
-<br>
-<br>
-<br>
-### Cordelia (Didi) Daley
-
-<img align="right" src='/images/CordeliaDaley.jpg' width="30%" height="30%">Cordelia Daley is working towards her Masters in biological science. Cordelia’s thesis project focuses on using genomic techniques to investigate the population structure of the New Zealand pipefish, <i>Stigmatopora nigra</i>. Her research interests include population genomics, evolutionary forces and conservation biology.
+<img align="left" src='/images/AlexandraCox.jpeg' width="30%" height="30%"> Alexandra is a PhD student co-supervised by Sarah and [Dr Claudia Meisrimler](https://www.canterbury.ac.nz/science/contact-us/people/claudia-meisrimler.html). Alexanda completed her MSc thesis, supported by the [Bioprotection Aotearoa Center of Research Excellence](https://bioprotection.org.nz/), on similar topics to her PhD, and she is now funded by [Food Transitions 2050](https://www.foodtransitions2050.ac.nz/). Her work focuses on the parasitic oomycete, *Phytophthora cinnamomi* and identifying the genes responsible for its pathogenicity. By annotating the genome of *P. cinnamomi*, Alexandra’s work will contribute to a larger effort in developing counter measures against this invasive species. Her main research interests are bioinformatics, molecular genetics, plant biology and conservation.
 
 
 <br>
 <br>
 <br>
 
+### Juan Lee
 
-### Jude van Houtte
-
-<img align="right" src='/images/jude-flanagan lab.jpg' width="20%" height="20%"> Jude is an undergraduate student working towards her BSc, majoring in Biological Science. She has joined the lab through a summer research opportunity with UC, where she will work in collaboration with Emily Beasley studying sexual selection and behaviour in sex-role-reversed pipefish. She is interested in conservation, ethology, and evolution, as well as mātauranga Māori and the connection between science and people.
+<img align="right" src='/images/JuanLee.jpeg' width="30%" height="30%"> Juan is a PhD student working on pipefish taxonomy, phylogeography, and population genetics. His MSc work in South Korea focused on behaviour and developmental biology, and he is exciting to be working on syngnathid genetics for his PhD. 
+<br>
+<br>
+<br>
+<br>
+<br>
 
