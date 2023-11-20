@@ -1,7 +1,8 @@
 ---
 title: "Flanagan Lab Manual"
-permalink: /resources/lab-manual
+permalink: "/resources/lab-manual"
 excerpt: ''
+output: pdf_document
 collection: resources
 ---
 
