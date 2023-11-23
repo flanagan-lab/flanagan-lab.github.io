@@ -7,6 +7,11 @@ permalink: /news-archive/
 # Lab news archive
 
 
+October 2022: Sarah has won the University of Canterbury's Emerging and Early Career Researcher Award! Read more about it [in this press release](https://www.canterbury.ac.nz/news/2022/canterbury-researcher-hooks-award-for-study-of-native-fish--.html)
+
+August 2022: Ruby O'Neill has joined the lab for her MSc, which is focused on parentage analysis and molecular dynamics of male pregnancy of the endemic ihe ihu roa (the long-snouted pipefish, <i>Stigmatopora macroptergyia</i>). 
+
+July 2022: The lab has published our first data paper! It is titled "Seasonal dynamics of faunal diversity and population ecology in an estuarine seagrass bed" and is published in *Estuaries and Coasts*. This is the first paper from Micaela Pullen's MSc (completed in 2021). You can read the paper for free from [Estuaries and Coasts](https://link.springer.com/content/pdf/10.1007/s12237-022-01103-8.pdf). You can read Sarah's summary on her [blog](https://sarahpflanagan.wordpress.com/2022/07/20/a-year-long-look-at-the-fish-and-other-animals-in-a-single-seagrass-bed/). 
 
 June 2022: Sarah was spoke about the group's research (especially the research on kororā, the little blue penguins) on Radio New Zealand's Nights with Bryan Crump. [You can listen to the segment as a podcast if you missed it live!](https://www.rnz.co.nz/national/programmes/nights/audio/2018845123/native-species-and-climate-change)
 
