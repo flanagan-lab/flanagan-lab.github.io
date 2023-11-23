@@ -15,6 +15,10 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+November 2023: We have two summer research students starting in the lab, Ella Peoples and Myles Landon. Welcome to the team!
+
+November 2023: Georgia Gwatkin recieved a UC Masters Scholarship, which she will be starting in February! She will be working with Sarah and Michelle LaRue on kororā ecology and behaviour. 
+
 October 2023: Coley won the School of Biological Science's Best Paper Award and the Senior Demonstrator award at the Annual Biology Conference. Congratulations, Coley!
 
 October 2023: Fleur van Eyndhoven's masters research was published in _The Royal Society Open Science_, titled ["High rates of male courtship in a female-ornamented pipefish"](https://royalsocietypublishing.org/doi/10.1098/rsos.231428). It is open access so everyone can take a look!
@@ -50,13 +54,6 @@ March 2023: The team has had a paper published in Nature Ecology & Evolution, ti
 February 2023: Emily has returned from 6 months living and working in Melbourne, Australia, with her co-supervisor Prof. Bob Wong. We're glad to have her back in Christchurch!
 
 December 2022: Sarah, Coley, and Emily attended the Australasian Evolution Society conference in Canberra, and all three gave talks about our research on pipefish. Reach out if you want to know more about our preliminary results!
-
-October 2022: Sarah has won the University of Canterbury's Emerging and Early Career Researcher Award! Read more about it [in this press release](https://www.canterbury.ac.nz/news/2022/canterbury-researcher-hooks-award-for-study-of-native-fish--.html)
-
-August 2022: Ruby O'Neill has joined the lab for her MSc, which is focused on parentage analysis and molecular dynamics of male pregnancy of the endemic ihe ihu roa (the long-snouted pipefish, <i>Stigmatopora macroptergyia</i>). 
-
-July 2022: The lab has published our first data paper! It is titled "Seasonal dynamics of faunal diversity and population ecology in an estuarine seagrass bed" and is published in *Estuaries and Coasts*. This is the first paper from Micaela Pullen's MSc (completed in 2021). You can read the paper for free from [Estuaries and Coasts](https://link.springer.com/content/pdf/10.1007/s12237-022-01103-8.pdf). You can read Sarah's summary on her [blog](https://sarahpflanagan.wordpress.com/2022/07/20/a-year-long-look-at-the-fish-and-other-animals-in-a-single-seagrass-bed/). 
-
 
 See older news at the [news archive](https://flanagan-lab.github.io/news-archive/)
 
