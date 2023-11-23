@@ -50,6 +50,10 @@ Email: emily.beasley@pg.canterbury.ac.nz
 <br>
 <br>
 
+### Georgia Gwatkin
+
+<img align="left" src='/images/GeorgiaGwatkin.jpg' width="30%" height="30%"> Georgia Gwatkin is currently pursuing a MSc in Biological Sciences, co-supervised by Dr. Sarah Flanagan and [Dr. Michelle LaRue](https://www.drmichellelarue.com/). Georgia’s research focuses on investigating the terrestrial habitat preferences and intra-seasonal movements of little penguins/kororā at Flea Bay/Pōhatu, working in collaboration with the Helps Pōhatu Conservation Trust. Her research interests include conservation biology, spatial ecology, and behavioural ecology.
+
 ### Ella Peoples
 
-<img align="left" src='/images/EllaPeoples.jpeg' width="30%" height="30%"> Ella Peoples is a summer research scholarship student. She recently finished a Bachelor of Science majoring in biological sciences and is currently deciding on a course of postgraduate study for 2024. Her research project involves little blue penguins/kororā and the Ixodes ticks which parasitize them. The ticks are also vector for pathogens which may pose a conservation risk to the kororā if an outbreak should occur. This project will involve developing and optimizing a method to screen ticks for pathogens. Her research interests are stable isotopes ecology, genetics, conservation biology and environmental toxicology, particularly in marine ecosystems.
+<img align="right" src='/images/EllaPeoples.jpeg' width="30%" height="30%"> Ella Peoples is a summer research scholarship student. She recently finished a Bachelor of Science majoring in biological sciences and is currently deciding on a course of postgraduate study for 2024. Her research project involves little blue penguins/kororā and the Ixodes ticks which parasitize them. The ticks are also vector for pathogens which may pose a conservation risk to the kororā if an outbreak should occur. This project will involve developing and optimizing a method to screen ticks for pathogens. Her research interests are stable isotopes ecology, genetics, conservation biology and environmental toxicology, particularly in marine ecosystems.
