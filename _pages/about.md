@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+December 2023: [Nan Hauser](https://whaleresearch.org/about-us/) has enrolled at UC for the last year of her PhD, funded by a UC Sustainability Development Scholarship, under the supervision of Sarah and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html).
+
 November 2023: We have two summer research students starting in the lab, Ella Peoples and Myles Landon. Welcome to the team!
 
 November 2023: Georgia Gwatkin recieved a UC Masters Scholarship, which she will be starting in February! She will be working with Sarah and Michelle LaRue on kororā ecology and behaviour. 
