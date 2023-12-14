@@ -57,3 +57,7 @@ Email: emily.beasley@pg.canterbury.ac.nz
 ### Ella Peoples
 
 <img align="right" src='/images/EllaPeoples.jpeg' width="30%" height="30%"> Ella Peoples is a summer research scholarship student. She recently finished a Bachelor of Science majoring in biological sciences and is currently deciding on a course of postgraduate study for 2024. Her research project involves little blue penguins/kororā and the Ixodes ticks which parasitize them. The ticks are also vector for pathogens which may pose a conservation risk to the kororā if an outbreak should occur. This project will involve developing and optimizing a method to screen ticks for pathogens. Her research interests are stable isotopes ecology, genetics, conservation biology and environmental toxicology, particularly in marine ecosystems.
+
+### Myles Landon
+
+Myles is a summer research scholarship student, working on a comparative analysis of pipefish mating systems. He is about to begin his third year as a Biochemistry Major at the University of Canterbury and is excited to have hands-on laboratory experience on a research project outside of the classroom.
