@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+January 2023: Sarah wrote [an article for The Conversation](https://theconversation.com/male-pregnancy-and-weird-courtship-wiggles-how-nzs-wide-bodied-pipefish-confounds-expectations-216618) about the lab's recently published research on wide-bodied pipefish behaviour.
+
 December 2023: [Nan Hauser](https://whaleresearch.org/about-us/) has enrolled at UC for the last year of her PhD, funded by a UC Sustainability Development Scholarship, under the supervision of Sarah and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html).
 
 November 2023: We have two summer research students starting in the lab, Ella Peoples and Myles Landon. Welcome to the team!
