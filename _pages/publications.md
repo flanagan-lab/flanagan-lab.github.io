@@ -76,6 +76,8 @@ Co-first authorship is denoted by *.
 
 <ol reversed>
 
+  <li><strong>Flanagan SP</strong> 2023. Male pregnancy and weird courtship wiggles: how NZ’s wide-bodied pipefish confounds expectations. The Conversation. <a href="https://theconversation.com/male-pregnancy-and-weird-courtship-wiggles-how-nzs-wide-bodied-pipefish-confounds-expectations-216618" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+  
   <li> Thomsen M, <span style="color:#239B56">Moser A</span>, <span style="color:#239B56">Pullen M</span>, <span style="color:#239B56">Gerber D</span>, & <strong>Flanagan SP </strong>. 2020. Seagrass beds provide habitat for crabs, shrimps and fish in two estuaries on the South Island of New Zealand. <em>bioRxiv</em>. <a href="https://www.biorxiv.org/content/10.1101/2020.07.22.120055v1.abstract" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Thomsen-20-seagrass-report-ecan-fish-0704.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a> </li>
   
   <li> <strong>Flanagan, SP</strong> 2019. Quantitative Genetics of Behavior. In: Choe, J.C. (Ed.), Encyclopedia of Animal Behavior, (2nd ed.). vol. 2, pp. 80–93. Elsevier, Academic Press. <a href="https://www.elsevier.com/books/encyclopedia-of-animal-behavior/choe/978-0-12-813251-7" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.files.wordpress.com/2019/11/flanagan-2019-bookchapter.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a> </li>
@@ -90,6 +92,8 @@ Co-first authorship is denoted by *.
 
 <ol reversed>
   
+ <li>  <span style="color:#239B56">O'Neill, R.</span> 2023. Quantifying the reproductive ecology and immune-related gill gene regulation in Stigmatopora macropterygia. <a href="https://ir.canterbury.ac.nz/items/0df492e4-2bd0-4aeb-b480-92bed96e0117" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a></li>
+ 
   <li> <span style="color:#239B56">Cox, A.</span> 2023. Insight into the effectomes of Aotearoa <i>Phythophthora cinnamomi</i> isolates by comparative genomics. <a href="https://ir.canterbury.ac.nz/items/cfa6bec3-4c00-415d-91c7-b75cb9e3446b" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a></li>
   
   <li> <span style="color:#239B56">van Eyndhoven, F.</span> 2022. The role of the novel female ornament in the wide-bodied pipefish, <i>Stigmatapora nigra</i>. http://dx.doi.org/10.26021/12821 <a href="https://ir.canterbury.ac.nz/handle/10092/103722" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
