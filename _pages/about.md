@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+January 2023: Sarah was interviewed on the RNZ Morning Report to talk about the recent pipefish research. [You can listen to the short conversation here!](https://www.rnz.co.nz/national/programmes/morningreport/audio/2018922246/nz-pipefish-stand-out)
+
 January 2023: Sarah wrote [an article for The Conversation](https://theconversation.com/male-pregnancy-and-weird-courtship-wiggles-how-nzs-wide-bodied-pipefish-confounds-expectations-216618) about the lab's recently published research on wide-bodied pipefish behaviour.
 
 December 2023: [Nan Hauser](https://whaleresearch.org/about-us/) has enrolled at UC for the last year of her PhD, funded by a UC Sustainability Development Scholarship, under the supervision of Sarah and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html).
