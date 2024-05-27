@@ -15,6 +15,10 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+April 2024: Coley Tosto submitted her PhD thesis for examination!
+
+February 2024: Xaver Bartels arrived from The Netherlands to do a research-based internship with Sarah as part of his MSc.
+
 January 2024: Sarah was interviewed on the RNZ Morning Report to talk about the recent pipefish research. [You can listen to the short conversation here!](https://www.rnz.co.nz/national/programmes/morningreport/audio/2018922246/nz-pipefish-stand-out)
 
 January 2024: Sarah wrote [an article for The Conversation](https://theconversation.com/male-pregnancy-and-weird-courtship-wiggles-how-nzs-wide-bodied-pipefish-confounds-expectations-216618) about the lab's recently published research on wide-bodied pipefish behaviour.
