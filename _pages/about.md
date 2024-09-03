@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+August 2024: Coley Tosto successfully passed the oral examination of her PhD thesis! 
+
 April 2024: Coley Tosto submitted her PhD thesis for examination!
 
 February 2024: Xaver Bartels arrived from The Netherlands to do a research-based internship with Sarah as part of his MSc.
