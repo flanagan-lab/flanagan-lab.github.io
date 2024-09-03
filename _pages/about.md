@@ -17,6 +17,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 August 2024: Coley Tosto successfully passed the oral examination of her PhD thesis! 
 
+June 2024: Georgia Gwatkin presented her preliminary MSc thesis work at the [Birds NZ conference in Nelson](https://www.birdsnz.org.nz/other-events/#!event/2024/6/1/nz-bird-conference-2024). 
+
 April 2024: Coley Tosto submitted her PhD thesis for examination!
 
 February 2024: Xaver Bartels arrived from The Netherlands to do a research-based internship with Sarah as part of his MSc.
