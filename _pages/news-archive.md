@@ -6,6 +6,35 @@ permalink: /news-archive/
 
 # Lab news archive
 
+August 2023: Ruby O'Neill submitted her MSc thesis -- congratulations on the achievement!
+
+August 2023: Sarah was awarded a Distributed Leadership in Teaching Programme scholarship, so she will be spending one day each week working with the Future Learning & Development team on enhancing her Biological Data Analysis course. 
+
+July 2023: Katrin Clark has joined the lab as a Research Assistant, helping on kororā projects. Welcome Katrin!
+
+July 2023: Sarah and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html) have been awarded a grant from Genomics Aotearoa to generate whole-genome sequence data for paikea (humpback whales)!
+
+June 2023: Alex Cox was awarded a Bioprotection Aotearoa travel scholarship! She will be presenting at Queenstown Research Week -- stop by to say hello if you are there!
+
+June 2023: Coley and Sarah presented research from the lab at the Evolution 2023 meeting in Albuquerque. 
+
+May 2023: Coley Tosto received travel scholarships to attend Evolution 2023 in Albuquerque!
+
+May 2023: Juan Lee and Alex Cox commenced their PhD research with Sarah. We are very excited to be growing the lab!
+
+April 2023: Coley's undergraduate research was published in Frontiers in Marine Science, titled ["The development of a quantification method for measuring iridescence using sexually selected traits in the Gulf pipefish (_Syngnathus scovelli_)"](https://www.frontiersin.org/articles/10.3389/fmars.2023.1127790/full), with her co-supervisors Emily Rose and Heather Mason. 
+
+April 2023: Juan Lee was awarded a UC Doctoral Scholarship to do his PhD with Sarah, studying pipefish evolution. He arrived from South Korea and will be starting his PhD in May.
+
+April 2023: Analese Fon has joined the lab as a BSc(Hons) student, co-supervised by Travis Horton, and is studying humpback whale behaviour. 
+
+March 2023: Alex Cox has submitted her MSc thesis. Congratulations Alex! Alex will be staying on as a PhD student. 
+
+March 2023: The team has had a paper published in Nature Ecology & Evolution, titled ["The roles of sexual selection and sexual conflict in shaping patterns of genome and transcriptome variation"](https://rdcu.be/c8jST), with collaborators Bob Wong and Judith Mank.
+
+February 2023: Emily has returned from 6 months living and working in Melbourne, Australia, with her co-supervisor Prof. Bob Wong. We're glad to have her back in Christchurch!
+
+December 2022: Sarah, Coley, and Emily attended the Australasian Evolution Society conference in Canberra, and all three gave talks about our research on pipefish. Reach out if you want to know more about our preliminary results!
 
 October 2022: Sarah has won the University of Canterbury's Emerging and Early Career Researcher Award! Read more about it [in this press release](https://www.canterbury.ac.nz/news/2022/canterbury-researcher-hooks-award-for-study-of-native-fish--.html)
 
