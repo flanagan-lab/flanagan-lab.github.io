@@ -54,10 +54,7 @@ Email: emily.beasley@pg.canterbury.ac.nz
 
 <img align="left" src='/images/GeorgiaGwatkin.jpg' width="30%" height="30%"> Georgia Gwatkin is currently pursuing a MSc in Biological Sciences, co-supervised by Dr. Sarah Flanagan and [Dr. Michelle LaRue](https://www.drmichellelarue.com/). Georgia’s research focuses on investigating the terrestrial habitat preferences and intra-seasonal movements of little penguins/kororā at Flea Bay/Pōhatu, working in collaboration with the Helps Pōhatu Conservation Trust. Her research interests include conservation biology, spatial ecology, and behavioural ecology.
 
-### Ella Peoples
+### Xaver Bartels
 
-<img align="right" src='/images/EllaPeoples.jpeg' width="30%" height="30%"> Ella Peoples is a summer research scholarship student. She recently finished a Bachelor of Science majoring in biological sciences and is currently deciding on a course of postgraduate study for 2024. Her research project involves little blue penguins/kororā and the Ixodes ticks which parasitize them. The ticks are also vector for pathogens which may pose a conservation risk to the kororā if an outbreak should occur. This project will involve developing and optimizing a method to screen ticks for pathogens. Her research interests are stable isotopes ecology, genetics, conservation biology and environmental toxicology, particularly in marine ecosystems.
+Xaver Bartels is an MSc student at the University of Amsterdam who is visiting the Flanagan lab for 8 months for his internship. He is studying courtship behaviours in pipefish. Specifically, Xaver is testing whether male pipefish prefer larger females or smaller females in <i>Stigmatopora nigra</i>.
 
-### Myles Landon
-
-Myles is a summer research scholarship student, working on a comparative analysis of pipefish mating systems. He is about to begin his third year as a Biochemistry Major at the University of Canterbury and is excited to have hands-on laboratory experience on a research project outside of the classroom.
