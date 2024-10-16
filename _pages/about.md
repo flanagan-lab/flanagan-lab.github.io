@@ -15,6 +15,10 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+October 2024: Sarah had a theoretical paper with Suzanne Alonzo published in [Proceedings of the Royal Society B](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1715)!
+
+October 2024: One of Coley's thesis chapters came out in [Early View at Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.17550)!
+
 September 2024: Emily Beasley and Sarah presented talks at the International Society for Behavioral Ecology meeting in Melbourne, Australia.
 
 August 2024: Coley Tosto successfully passed the oral examination of her PhD thesis! 
