@@ -58,3 +58,6 @@ Email: emily.beasley@pg.canterbury.ac.nz
 
 Xaver Bartels is an MSc student at the University of Amsterdam who is visiting the Flanagan lab for 8 months for his internship. He is studying courtship behaviours in pipefish. Specifically, Xaver is testing whether male pipefish prefer larger females or smaller females in <i>Stigmatopora nigra</i>.
 
+### Sophie Shannon
+
+Sophie is doing her BSc (Hons) with [Dr Daniel Stouffer](https://stoufferlab.org/people/stouffer/), [Professor Mike Plank](https://www.math.canterbury.ac.nz/~m.plank/), and Sarah. She is evaluating how different models of tree growth and mortality impact predictions of forest size that are important for estimating the amount of carbon sequestered by that stand of trees -- which directly impacts estimates of carbon offsetting by tree planting.
