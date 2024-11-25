@@ -15,6 +15,10 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+November 2024: Sarah was promoted to the role of Senior Lecturer above the Bar.
+
+October 2024: Emily Beasley and Georgia Gwatkin won awards for best talks in their categories at the Annual Biology Conference at UC and Fleur van Eyndhoven won the Best MSc paper award. Congratulations everyone!
+
 October 2024: Sarah had a theoretical paper with Suzanne Alonzo published in [Proceedings of the Royal Society B](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1715)!
 
 October 2024: One of Coley's thesis chapters came out in [Early View at Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.17550)!
