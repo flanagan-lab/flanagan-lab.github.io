@@ -6,6 +6,17 @@ show_date: false
 collection: people
 ---
 
+## PhD students at University of Canterbury
+
+### Coley Tosto
+<img align="left" src='/images/ColeyTosto.jpg' width="20%" height="20%"> Coley Tosto has completed a Ph.D. in Biological Sciences investigating the role sexual selection pressures have in sex-biased gene expression using pipefish as a model system. Her overall research interests surround the evolution of different mating systems and all the factors that are involved in shaping them. She is working in collaboration with [Heather Masonjones](https://www.ut.edu/directory/masonjones-heather) and [Emily Rose](https://www.valdosta.edu/about/directory/profile/erose). Coley has stayed on at UC while awaiting graduation in a short-term research associate role and gaining experience teaching. 
+
+<br>
+<br>
+<br>
+<br>
+ 
+
 ## Masters students at University of Canterbury
 
 ### Ruby O'Neill
