@@ -9,7 +9,7 @@ collection: people
 ## PhD students at University of Canterbury
 
 ### Coley Tosto
-<img align="left" src='/images/ColeyTosto.jpg' width="20%" height="20%"> Coley Tosto has completed a Ph.D. in Biological Sciences investigating the role sexual selection pressures have in sex-biased gene expression using pipefish as a model system. Her overall research interests surround the evolution of different mating systems and all the factors that are involved in shaping them. She is working in collaboration with [Heather Masonjones](https://www.ut.edu/directory/masonjones-heather) and [Emily Rose](https://www.valdosta.edu/about/directory/profile/erose). Coley has stayed on at UC while awaiting graduation in a short-term research associate role and gaining experience teaching. 
+<img align="left" src='/images/ColeyTosto.jpg' width="20%" height="20%"> Coley Tosto has completed a Ph.D. in Biological Sciences investigating the role sexual selection pressures have in sex-biased gene expression using pipefish as a model system. Her overall research interests surround the evolution of different mating systems and all the factors that are involved in shaping them. She is working in collaboration with [Heather Masonjones](https://www.ut.edu/directory/masonjones-heather) and [Emily Rose](https://www.valdosta.edu/about/directory/profile/erose).
 
 <br>
 <br>
@@ -54,6 +54,10 @@ collection: people
 
 <img align="right" src='/images/AnaleseFon.jpeg' width="30%" height="30%"> Analese is a student currently working towards a Bachelor of Environmental Science majoring in Ecosystem Health and Biosecurity at the University of Canterbury. Her honours research project aims to investigate the use of drones as a non-invasive monitoring tool to understand the behaviours of endangered humpback whales (*Megaptera noaeangliae*). Co-supervised by Sarah Flanagan and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html), Analese's research interests are animal behaviour and conservation biology.
 
+### Sophie Shannon
+
+Sophie completed her BSc (Hons) with [Dr Daniel Stouffer](https://stoufferlab.org/people/stouffer/), [Professor Mike Plank](https://www.math.canterbury.ac.nz/~m.plank/), and Sarah. She evaluated how different models of tree growth and mortality impact predictions of forest size that are important for estimating the amount of carbon sequestered by that stand of trees -- which directly impacts estimates of carbon offsetting by tree planting.
+
 
 ## Summer scholarship students at University of Canterbury
 
@@ -76,6 +80,16 @@ Myles worked with Coley and Emily on a comparative analysis of pipefish mating s
 2019-2020: Averill Moser-Rust worked with Mads Thomsen, Micaela Pullen, Derek Gerber, and Sarah, investigating the community of fishes in two  seagrass beds in the Canterbury region in New Zealand.
 
 2018-2019: Chavvah Freeman worked with Sarah, studying the evolution of pigmentation genes in pipefish.
+
+## Visiting scholars
+
+### Xaver Bartels
+
+Xaver Bartels is an MSc student at the University of Amsterdam who visited the Flanagan lab for 8 months for his internship in 2024. He studied courtship behaviours in pipefish. Specifically, Xaver tested whether male pipefish prefer larger females or smaller females in <i>Stigmatopora nigra</i>.
+
+### Kathryn Blankely
+
+Kathryn was a Royal Society of New Zealand Science Teaching Leadership Programme fellow co-supervised by Sarah Flanagan and Rob Cruickshank in 2024.
 
 ## NIMBioS SRE 2017
 
