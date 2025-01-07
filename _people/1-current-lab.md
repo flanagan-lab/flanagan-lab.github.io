@@ -46,10 +46,3 @@ Email: emily.beasley@pg.canterbury.ac.nz
 
 <img align="left" src='/images/GeorgiaGwatkin.jpg' width="30%" height="30%"> Georgia Gwatkin is currently pursuing a MSc in Biological Sciences, co-supervised by Dr. Sarah Flanagan and [Dr. Michelle LaRue](https://www.drmichellelarue.com/). Georgia’s research focuses on investigating the terrestrial habitat preferences and intra-seasonal movements of little penguins/kororā at Flea Bay/Pōhatu, working in collaboration with the Helps Pōhatu Conservation Trust. Her research interests include conservation biology, spatial ecology, and behavioural ecology.
 
-### Xaver Bartels
-
-Xaver Bartels is an MSc student at the University of Amsterdam who is visiting the Flanagan lab for 8 months for his internship. He is studying courtship behaviours in pipefish. Specifically, Xaver is testing whether male pipefish prefer larger females or smaller females in <i>Stigmatopora nigra</i>.
-
-### Sophie Shannon
-
-Sophie is doing her BSc (Hons) with [Dr Daniel Stouffer](https://stoufferlab.org/people/stouffer/), [Professor Mike Plank](https://www.math.canterbury.ac.nz/~m.plank/), and Sarah. She is evaluating how different models of tree growth and mortality impact predictions of forest size that are important for estimating the amount of carbon sequestered by that stand of trees -- which directly impacts estimates of carbon offsetting by tree planting.
