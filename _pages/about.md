@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+February 2025: Sarah appeared on [RNZ's Afternoons with Jesse Mulligan](https://www.rnz.co.nz/national/programmes/afternoons/audio/2018975364/super-genes-what-are-they-and-do-we-really-need-them) to discuss her recent paper on supergenes. Click the link to listen!
+
 December 2024: Coley won a student Instructor of the Year award from the School of Biological Sciences! She also officially left the Flanagan lab to start a postdoctoral research position with [Sarah Kessans](https://profiles.canterbury.ac.nz/Sarah-Kessans).
 
 November 2024: Sarah was promoted to the role of Senior Lecturer above the Bar.
