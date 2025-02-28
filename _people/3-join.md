@@ -1,6 +1,6 @@
 ---
 title: "Join the lab"
-excerpt: "Read more about how to join the lab"
+excerpt: "Read more about how to join the lab. <br>I am currently seeking a postdoc to study population genetics in emperor penguins!<br><img src='/images/IMG_3174.JPG' width='500'>"
 collection: people
 show_date: false
 permalink: /people/join
