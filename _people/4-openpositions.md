@@ -2,8 +2,8 @@
 layout: archive
 title: "Open Positions"
 excerpt: "I am currently seeking a postdoc to study population genetics in emperor penguins!<br><img src='/images/IMG_3174.JPG' width='500'>"
-permalink: /open-positions/
-author_profile: true
+permalink: /people/open-positions/
+collection: people
 ---
 
 ### I AM SEEKING A POSTDOCTORAL RESEARCHER
