@@ -15,6 +15,12 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+August 2025: Emily Beasley successfully passed the oral examination of her PhD thesis! 
+
+July 2025: The [special issue in Molecular Ecology on the Ecology of Gene Expression](https://onlinelibrary.wiley.com/toc/1365294x/2025/34/15) that Sarah co-edited is now published, alongside the [editorial Sarah contributed to](https://onlinelibrary.wiley.com/doi/10.1111/mec.70035)!
+
+May 2025: Emily Beasley submitted her PhD thesis for examination!
+
 February 2025: Sarah appeared on [RNZ's Afternoons with Jesse Mulligan](https://www.rnz.co.nz/national/programmes/afternoons/audio/2018975364/super-genes-what-are-they-and-do-we-really-need-them) to discuss her recent paper on supergenes. Click the link to listen!
 
 December 2024: Coley won a student Instructor of the Year award from the School of Biological Sciences! She also officially left the Flanagan lab to start a postdoctoral research position with [Sarah Kessans](https://profiles.canterbury.ac.nz/Sarah-Kessans).
@@ -42,18 +48,6 @@ February 2024: Xaver Bartels arrived from The Netherlands to do a research-based
 January 2024: Sarah was interviewed on the RNZ Morning Report to talk about the recent pipefish research. [You can listen to the short conversation here!](https://www.rnz.co.nz/national/programmes/morningreport/audio/2018922246/nz-pipefish-stand-out)
 
 January 2024: Sarah wrote [an article for The Conversation](https://theconversation.com/male-pregnancy-and-weird-courtship-wiggles-how-nzs-wide-bodied-pipefish-confounds-expectations-216618) about the lab's recently published research on wide-bodied pipefish behaviour.
-
-December 2023: [Nan Hauser](https://whaleresearch.org/about-us/) has enrolled at UC for the last year of her PhD, funded by a UC Sustainability Development Scholarship, under the supervision of Sarah and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html).
-
-November 2023: We have two summer research students starting in the lab, Ella Peoples and Myles Landon. Welcome to the team!
-
-November 2023: Georgia Gwatkin recieved a UC Masters Scholarship, which she will be starting in February! She will be working with Sarah and Michelle LaRue on kororā ecology and behaviour. 
-
-October 2023: Coley won the School of Biological Science's Best Paper Award and the Senior Demonstrator award at the Annual Biology Conference. Congratulations, Coley!
-
-October 2023: Fleur van Eyndhoven's masters research was published in _The Royal Society Open Science_, titled ["High rates of male courtship in a female-ornamented pipefish"](https://royalsocietypublishing.org/doi/10.1098/rsos.231428). It is open access so everyone can take a look!
-
-October 2023: Sarah has received a small grant from the University of Canterbury Biosecurity Innovations research cluster to fund research on penguin ticks in collaboration with [Chris Niebuhr at Manaaki Whenua - Landcare Research](https://www.landcareresearch.co.nz/about-us/our-people/chris-niebuhr). 
 
 See older news at the [news archive](https://flanagan-lab.github.io/news-archive/)
 
