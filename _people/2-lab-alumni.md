@@ -22,7 +22,7 @@ collection: people
 
 ### Georgia Gwatkin
 
-<img align="left" src='/images/GeorgiaGwatkin.jpg' width="30%" height="30%"> Georgia Gwatkin is currently pursuing a MSc in Biological Sciences, co-supervised by Dr. Sarah Flanagan and [Dr. Michelle LaRue](https://www.drmichellelarue.com/). Georgia’s research focuses on investigating the terrestrial habitat preferences and intra-seasonal movements of little penguins/kororā at Flea Bay/Pōhatu, working in collaboration with the Helps Pōhatu Conservation Trust. Her research interests include conservation biology, spatial ecology, and behavioural ecology.
+<img align="left" src='/images/GeorgiaGwatkin.jpg' width="30%" height="30%"> Georgia Gwatkin completed a MSc in Biological Sciences, co-supervised by Dr. Sarah Flanagan and [Dr. Michelle LaRue](https://www.drmichellelarue.com/). Georgia’s research focused on investigating the terrestrial habitat preferences and intra-seasonal movements of little penguins/kororā at Flea Bay/Pōhatu, working in collaboration with the Helps Pōhatu Conservation Trust. Her research interests include conservation biology, spatial ecology, and behavioural ecology.
 
 ### Ruby O'Neill
 
