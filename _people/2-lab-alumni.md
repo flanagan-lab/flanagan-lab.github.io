@@ -19,6 +19,11 @@ collection: people
 
 ## Masters students at University of Canterbury
 
+
+### Georgia Gwatkin
+
+<img align="left" src='/images/GeorgiaGwatkin.jpg' width="30%" height="30%"> Georgia Gwatkin is currently pursuing a MSc in Biological Sciences, co-supervised by Dr. Sarah Flanagan and [Dr. Michelle LaRue](https://www.drmichellelarue.com/). Georgia’s research focuses on investigating the terrestrial habitat preferences and intra-seasonal movements of little penguins/kororā at Flea Bay/Pōhatu, working in collaboration with the Helps Pōhatu Conservation Trust. Her research interests include conservation biology, spatial ecology, and behavioural ecology.
+
 ### Ruby O'Neill
 
 <img align="left" src='/images/RubyONeill.jpeg' width="30%" height="30%"> Ruby O'Neill submitted her masters thesis in August 2023. Her thesis focussed on New Zealand pipefish (<i>Stigmatopora macropterygia</i>) and differential gene expression between males and females.  
