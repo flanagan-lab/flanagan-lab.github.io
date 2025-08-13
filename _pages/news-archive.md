@@ -6,6 +6,18 @@ permalink: /news-archive/
 
 # Lab news archive
 
+December 2023: [Nan Hauser](https://whaleresearch.org/about-us/) has enrolled at UC for the last year of her PhD, funded by a UC Sustainability Development Scholarship, under the supervision of Sarah and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html).
+
+November 2023: We have two summer research students starting in the lab, Ella Peoples and Myles Landon. Welcome to the team!
+
+November 2023: Georgia Gwatkin recieved a UC Masters Scholarship, which she will be starting in February! She will be working with Sarah and Michelle LaRue on kororā ecology and behaviour. 
+
+October 2023: Coley won the School of Biological Science's Best Paper Award and the Senior Demonstrator award at the Annual Biology Conference. Congratulations, Coley!
+
+October 2023: Fleur van Eyndhoven's masters research was published in _The Royal Society Open Science_, titled ["High rates of male courtship in a female-ornamented pipefish"](https://royalsocietypublishing.org/doi/10.1098/rsos.231428). It is open access so everyone can take a look!
+
+October 2023: Sarah has received a small grant from the University of Canterbury Biosecurity Innovations research cluster to fund research on penguin ticks in collaboration with [Chris Niebuhr at Manaaki Whenua - Landcare Research](https://www.landcareresearch.co.nz/about-us/our-people/chris-niebuhr). 
+
 August 2023: Ruby O'Neill submitted her MSc thesis -- congratulations on the achievement!
 
 August 2023: Sarah was awarded a Distributed Leadership in Teaching Programme scholarship, so she will be spending one day each week working with the Future Learning & Development team on enhancing her Biological Data Analysis course. 
