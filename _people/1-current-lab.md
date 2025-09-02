@@ -39,6 +39,10 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <br>
 <br>
 <br>
+
+### Belle Hartshorn
+
+Belle is a BSc(Hons) student in Biology. She is performing a systematic review of peer-reviewed literature investigating sex-biased (or sex-differential) gene expression as it relates to auto-immune diseases. Her aspiration is to attend medical school after completing her degree.  
 <br>
 <br>
 
