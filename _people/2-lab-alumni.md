@@ -14,6 +14,13 @@ collection: people
 <br>
 <br>
 <br>
+
+### Emily Beasley
+
+<img align="left" src='/images/EmilyBeasley2022.jpg' width="20%" height="20%"> Emily has submitted her thesis, which used three <i>Stigmatopora</i> species of pipefish to investigate the role of sexual selection in the evolution of sex-biased gene expression. Emily earned her undergraduate honours degree from Saint Mary’s University in Halifax, Nova Scotia, Canada, in 2015. In 2018, she completed her MSc by Research at Middlesex University in London, England. Her current research interests include bioinformatics, evolutionary biology, conservation biology, and behavioural ecology. Emily is co-supervised by [Prof. Elissa Cameron (University of Canterbury)](https://www.canterbury.ac.nz/science/contact-us/people/elissa-cameron.html) and [Prof. Bob Wong (Monash University)](https://www.bobwonglab.org/). 
+Email: emily.beasley@pg.canterbury.ac.nz
+<br>
+<br>
 <br>
  
 
