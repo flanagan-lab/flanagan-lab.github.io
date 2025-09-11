@@ -10,10 +10,12 @@ redirect_from:
 
 <b>About the lab</b>
 
-The Flanagan Lab in the School of Biological Sciences at the University of Canterbury in Christchurch is focused on understanding the evolutionary mechanisms allowing variation in traits to be maintained within and among populations. Specifically, we are interested in understanding the evolution of sexually dimorphic traits (why are males and females different morphologically and behaviourally in some species and not other closely related species?) and identifying mechanisms impacting fitness-related traits (what evolutionary mechanisms and which traits are involved in population declines?). We use a wide variety of tools to address these questions, including population genetics, comparative genomics, transcriptomics, animal behaviour, and simulation modeling. Our empirical work has mostly focused on pipefish and seahorses, but we are also studying kororā (little blue penguins), paikea (humpback whales), and pathogenic oomycetes.
+The Flanagan Lab in the School of Biological Sciences at the University of Canterbury in Christchurch is focused on understanding the evolutionary mechanisms allowing variation in traits to be maintained within and among populations. Specifically, we are interested in understanding the evolution of sexually dimorphic traits (why are males and females different morphologically and behaviourally in some species and not other closely related species?) and identifying mechanisms impacting fitness-related traits (what evolutionary mechanisms and which traits are involved in population declines?). We use a wide variety of tools to address these questions, including population genetics, comparative genomics, transcriptomics, animal behaviour, and simulation modeling. Our empirical work has mostly focused on pipefish and seahorses, but we are also studying kororā (little blue penguins), emperor penguins, paikea (humpback whales), and pathogenic oomycetes.
 
 
 <b>Lab news</b>
+
+September 2025: We are welcoming postdoctoral researcher Skye Davis and visiting MSc student Isla O'Donoghue to the lab this month. Skye will be investigating population genomics in emperor penguins and Isla will be focussed on ticks feeding on kororā. Welcome, both!
 
 August 2025: Emily Beasley successfully passed the oral examination of her PhD thesis! 
 
