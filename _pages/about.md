@@ -25,6 +25,8 @@ October 2025: Sarah left for a one-month excursion to Antarctica to join in on t
 
 September 2025: We are welcoming postdoctoral researcher Skye Davis and visiting MSc student Isla O'Donoghue to the lab this month. Skye will be investigating population genomics in emperor penguins and Isla will be focussed on ticks feeding on kororā. Welcome, both!
 
+September 2025: Nan Hauser submitted her PhD thesis!
+
 August 2025: Emily Beasley successfully passed the oral examination of her PhD thesis! 
 
 July 2025: The [special issue in Molecular Ecology on the Ecology of Gene Expression](https://onlinelibrary.wiley.com/toc/1365294x/2025/34/15) that Sarah co-edited is now published, alongside the [editorial Sarah contributed to](https://onlinelibrary.wiley.com/doi/10.1111/mec.70035)!
