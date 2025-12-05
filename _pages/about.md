@@ -15,6 +15,14 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+November 2025: Juan Lee was awarded a Graduate Student Research Award from the Society of Systematic Biology to support his thesis research -- well done Juan!
+
+November 2025: Congratulations to Belle Hartshorn who won an award for best presentation at the Annual Biology Conference! She also submitted her thesis and finished the requirements for her BSc(Hons) this month.
+
+November 2025: Juan Lee won an award for best student presentation at The Korean Society of Fisheries and Aquatic Science conference in Busan, South Korean. Congratulations!
+
+October 2025: Sarah left for a one-month excursion to Antarctica to join in on the field work for her collaborative project with Professor Michelle LaRue and colleagues, which focusses on the coexistence of emperor penguins, Weddell seals, and Adelie Penguins in the Ross Sea.
+
 September 2025: We are welcoming postdoctoral researcher Skye Davis and visiting MSc student Isla O'Donoghue to the lab this month. Skye will be investigating population genomics in emperor penguins and Isla will be focussed on ticks feeding on kororā. Welcome, both!
 
 August 2025: Emily Beasley successfully passed the oral examination of her PhD thesis! 
@@ -26,32 +34,6 @@ May 2025: Emily Beasley submitted her PhD thesis for examination!
 February 2025: Sarah appeared on [RNZ's Afternoons with Jesse Mulligan](https://www.rnz.co.nz/national/programmes/afternoons/audio/2018975364/super-genes-what-are-they-and-do-we-really-need-them) to discuss her recent paper on supergenes. Click the link to listen!
 
 January 2025: Belle Hartshorn has joined the lab to do her BSc(Hons). Welcome, Belle!
-
-December 2024: Coley won a student Instructor of the Year award from the School of Biological Sciences! She also officially left the Flanagan lab to start a postdoctoral research position with [Sarah Kessans](https://profiles.canterbury.ac.nz/Sarah-Kessans).
-
-November 2024: Sarah was promoted to the role of Senior Lecturer above the Bar.
-
-October 2024: Emily Beasley and Georgia Gwatkin won awards for best talks in their categories at the Annual Biology Conference at UC and Fleur van Eyndhoven won the Best MSc paper award. Congratulations everyone!
-
-October 2024: Sarah had a theoretical paper with Suzanne Alonzo published in [Proceedings of the Royal Society B](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1715)!
-
-October 2024: One of Coley's thesis chapters came out in [Early View at Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.17550)!
-
-September 2024: Emily Beasley and Sarah presented talks at the International Society for Behavioral Ecology meeting in Melbourne, Australia.
-
-August 2024: Coley Tosto successfully passed the oral examination of her PhD thesis! 
-
-July 2024: Sarah presented a poster on preliminary comparative transcriptomics work at the Evolution conference in Montreal, Canada.
-
-June 2024: Georgia Gwatkin presented her preliminary MSc thesis work at the [Birds NZ conference in Nelson](https://www.birdsnz.org.nz/other-events/#!event/2024/6/1/nz-bird-conference-2024). 
-
-April 2024: Coley Tosto submitted her PhD thesis for examination!
-
-February 2024: Xaver Bartels arrived from The Netherlands to do a research-based internship with Sarah as part of his MSc.
-
-January 2024: Sarah was interviewed on the RNZ Morning Report to talk about the recent pipefish research. [You can listen to the short conversation here!](https://www.rnz.co.nz/national/programmes/morningreport/audio/2018922246/nz-pipefish-stand-out)
-
-January 2024: Sarah wrote [an article for The Conversation](https://theconversation.com/male-pregnancy-and-weird-courtship-wiggles-how-nzs-wide-bodied-pipefish-confounds-expectations-216618) about the lab's recently published research on wide-bodied pipefish behaviour.
 
 See older news at the [news archive](https://flanagan-lab.github.io/news-archive/)
 
