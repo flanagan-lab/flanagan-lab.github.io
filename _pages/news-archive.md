@@ -6,6 +6,32 @@ permalink: /news-archive/
 
 # Lab news archive
 
+December 2024: Coley won a student Instructor of the Year award from the School of Biological Sciences! She also officially left the Flanagan lab to start a postdoctoral research position with [Sarah Kessans](https://profiles.canterbury.ac.nz/Sarah-Kessans).
+
+November 2024: Sarah was promoted to the role of Senior Lecturer above the Bar.
+
+October 2024: Emily Beasley and Georgia Gwatkin won awards for best talks in their categories at the Annual Biology Conference at UC and Fleur van Eyndhoven won the Best MSc paper award. Congratulations everyone!
+
+October 2024: Sarah had a theoretical paper with Suzanne Alonzo published in [Proceedings of the Royal Society B](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1715)!
+
+October 2024: One of Coley's thesis chapters came out in [Early View at Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.17550)!
+
+September 2024: Emily Beasley and Sarah presented talks at the International Society for Behavioral Ecology meeting in Melbourne, Australia.
+
+August 2024: Coley Tosto successfully passed the oral examination of her PhD thesis! 
+
+July 2024: Sarah presented a poster on preliminary comparative transcriptomics work at the Evolution conference in Montreal, Canada.
+
+June 2024: Georgia Gwatkin presented her preliminary MSc thesis work at the [Birds NZ conference in Nelson](https://www.birdsnz.org.nz/other-events/#!event/2024/6/1/nz-bird-conference-2024). 
+
+April 2024: Coley Tosto submitted her PhD thesis for examination!
+
+February 2024: Xaver Bartels arrived from The Netherlands to do a research-based internship with Sarah as part of his MSc.
+
+January 2024: Sarah was interviewed on the RNZ Morning Report to talk about the recent pipefish research. [You can listen to the short conversation here!](https://www.rnz.co.nz/national/programmes/morningreport/audio/2018922246/nz-pipefish-stand-out)
+
+January 2024: Sarah wrote [an article for The Conversation](https://theconversation.com/male-pregnancy-and-weird-courtship-wiggles-how-nzs-wide-bodied-pipefish-confounds-expectations-216618) about the lab's recently published research on wide-bodied pipefish behaviour.
+
 December 2023: [Nan Hauser](https://whaleresearch.org/about-us/) has enrolled at UC for the last year of her PhD, funded by a UC Sustainability Development Scholarship, under the supervision of Sarah and [Travis Horton](https://www.canterbury.ac.nz/science/contact-us/people/travis-horton.html).
 
 November 2023: We have two summer research students starting in the lab, Ella Peoples and Myles Landon. Welcome to the team!
