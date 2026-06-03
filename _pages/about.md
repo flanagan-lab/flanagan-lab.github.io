@@ -15,6 +15,14 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+May 2026: Skye Davis was awarded a travel grant to attend the Scientific Committee for Antarctic Research conference in Norway later this year.
+
+May 2026: Sarah had a collaborative paper published on the methods of her work on seals in Antarctica. 
+
+March 2026: Nan Hauser passed her PhD oral examination!
+
+December 2026: Belle Hartshorn completed her degree and is moving on to medical school at the University of Auckland!
+
 November 2025: Juan Lee was awarded a Graduate Student Research Award from the Society of Systematic Biology to support his thesis research -- well done Juan!
 
 November 2025: Congratulations to Belle Hartshorn who won an award for best presentation at the Annual Biology Conference! She also submitted her thesis and finished the requirements for her BSc(Hons) this month.
