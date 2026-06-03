@@ -15,6 +15,8 @@ Co-first authorship is denoted by *.
 
 <ol reversed>
 
+<li> Holser RR, Hickcox RP, Costa DP, Hildebrand T, <strong>Flanagan SP</strong>, LaRue MA (2026) Field immobilisation of adult Weddell seals using intramuscular butorphanol and midazolam. Veterinary Record <a href="https://bvajournals.onlinelibrary.wiley.com/doi/full/10.1002/vetr.70740" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Veterinary%20Record%20-%202026%20-%20Holser%20-%20Field%20immobilisation%20of%20adult%20Weddell%20seals%20using%20intramuscular%20butorphanol%20and.pdf" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a></li>
+ 
 <li><span style="color:#239B56">Tosto N</span>, Rose E, Mason H,<strong>Flanagan SP</strong> (2025) Sex-biased gene expression in the northern pipefish (<i>Syngnathus fuscus</i>), a species with male pregnancy, is widespread and linked to tissue specificity. Sexual Development <a href="https://karger.com/sxd/article-abstract/doi/10.1159/000549900/940708/Sex-biased-gene-expression-in-the-northern" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a></li>
 
 <li><strong>Flanagan SP</strong>, Chaturvedi S, Palma-Silva C, Rennison D, Rogers S, Singh P (2025) Ecology of gene expression. Molecular Ecology 34:e70035  <a href="https://doi.org/10.1111/mec.70035" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Flanagan 2025 - Ecology of Gene Expression.pdf" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a></li>
