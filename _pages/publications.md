@@ -105,7 +105,13 @@ Co-first authorship is denoted by *.
 <h2>Theses</h2>
 
 <ol reversed>
-  
+
+ <li> Beasley, ER. 2025. A taste for the beautiful : differential expression in genes, traits, and behaviours in three congeneric species of pipefish in the genus Stigmatopora. <a href="https://ir.canterbury.ac.nz/items/1b9d7e93-c2b3-4251-ac09-3bf88700beb8" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a></li>
+ 
+ <li> Gwatkin, GSM. 2025. Interactions between kororā/little penguins (Eudyptula minor) and their terrestrial environment at Pōhatu/Flea Bay, Banks Peninsula. <a href="https://ir.canterbury.ac.nz/items/419da2b9-2332-4f9a-a2d5-96b3e84d4046" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a></li>
+ 
+ <li> Tosto, NM. 2024. Deciphering the evolutionary tapestry of sexual dimorphism: From gene expression to sexual selection in pipefish.</li>
+ 
  <li>  <span style="color:#239B56">O'Neill, R.</span> 2023. Quantifying the reproductive ecology and immune-related gill gene regulation in Stigmatopora macropterygia. <a href="https://ir.canterbury.ac.nz/items/0df492e4-2bd0-4aeb-b480-92bed96e0117" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a></li>
  
   <li> <span style="color:#239B56">Cox, A.</span> 2023. Insight into the effectomes of Aotearoa <i>Phythophthora cinnamomi</i> isolates by comparative genomics. <a href="https://ir.canterbury.ac.nz/items/cfa6bec3-4c00-415d-91c7-b75cb9e3446b" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a></li>
