@@ -15,9 +15,11 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+June 2026: Georgia Gwatkin's paper on little blue penguin nest selection has been [published in the Journal of Wildlife Management](https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/jwmg.70230)!
+
 May 2026: Skye Davis was awarded a travel grant to attend the Scientific Committee for Antarctic Research conference in Norway later this year.
 
-May 2026: Sarah had a collaborative paper published on the methods of her work on seals in Antarctica. 
+May 2026: Sarah had a collaborative [paper published on the methods of her work on seals in Antarctica](https://bvajournals.onlinelibrary.wiley.com/doi/full/10.1002/vetr.70740). 
 
 March 2026: Nan Hauser passed her PhD oral examination!
 
