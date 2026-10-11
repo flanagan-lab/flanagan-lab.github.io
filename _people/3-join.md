@@ -8,9 +8,9 @@ permalink: /people/join
 
 ## Join the lab
 
-### I AM SEEKING A POSTDOCTORAL RESEARCHER
+### I AM SEEKING A PHD STUDENT
 
-I am seeking a postdoctoral researcher interested in studying population genetics in emperor penguins. [Read more about the opportunity in the advertisement](https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/postdoc_ad_penguins.pdf). To apply, please [email me](sarah.flanagan@canterbury.ac.nz) with a CV.
+I am seeking a postdoctoral researcher interested in studying conservation genomics in penguins. [Read more about the opportunity and apply on the UC portal]([https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/postdoc_ad_penguins.pdf](https://scholarshipscanterbury.communityforce.com/Funds/FundDetails.aspx?496F49596D593768464E3537506B6F754D5442315A77465A727653647A79786465367479645A4D3568577432564D4250564A553958776A3446437A4E3666323775612F73653641316A73303D). 
 
 ### Prospective postgraduate (masters or PhD) students
 
