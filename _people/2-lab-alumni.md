@@ -69,6 +69,10 @@ collection: people
 
 Sophie completed her BSc (Hons) with [Dr Daniel Stouffer](https://stoufferlab.org/people/stouffer/), [Professor Mike Plank](https://www.math.canterbury.ac.nz/~m.plank/), and Sarah. She evaluated how different models of tree growth and mortality impact predictions of forest size that are important for estimating the amount of carbon sequestered by that stand of trees -- which directly impacts estimates of carbon offsetting by tree planting.
 
+### Belle Hartshorn
+
+Belle completed her BSc(Hons) student in Biology. She performed a systematic review of peer-reviewed literature investigating sex-biased (or sex-differential) gene expression as it relates to auto-immune diseases. She is now in medical school.  
+
 
 ## Summer scholarship students at University of Canterbury
 
@@ -94,9 +98,13 @@ Myles worked with Coley and Emily on a comparative analysis of pipefish mating s
 
 ## Visiting scholars
 
+### Isla O'Donaghue
+
+Isla was a visiting Masters student from the University of Aberdeen who visited the Flanagan lab for 12 months. She worked with Chris Niebuhr on penguin ticks, including providing the first morphological and genetic identification of a species found in little blue penguin colonies in New Zealand, <i>Ixodes eudyptidis</i>.
+
 ### Xaver Bartels
 
-Xaver Bartels is an MSc student at the University of Amsterdam who visited the Flanagan lab for 8 months for his internship in 2024. He studied courtship behaviours in pipefish. Specifically, Xaver tested whether male pipefish prefer larger females or smaller females in <i>Stigmatopora nigra</i>.
+Xaver Bartels was an MSc student at the University of Amsterdam who visited the Flanagan lab for 8 months for his internship in 2024. He studied courtship behaviours in pipefish. Specifically, Xaver tested whether male pipefish prefer larger females or smaller females in <i>Stigmatopora nigra</i>.
 
 ### Kathryn Blankely
 
