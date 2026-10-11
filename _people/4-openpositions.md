@@ -1,10 +1,12 @@
 ---
 layout: archive
 title: "Open Positions"
-excerpt: "I am currently seeking a postdoc to study population genetics in emperor penguins!<br><img src='/images/IMG_3174.JPG' width='500'>"
+excerpt: "I am currently seeking a PhD student to study conservation genetics in penguins!<br><img src='/images/IMG_3174.JPG' width='500'>"
 permalink: /people/open-positions/
 collection: people
 ---
+
+The PhD position is funded by the UC Commitments Doctoral Scholarship. Find out more and apply on the [UC portal](https://scholarshipscanterbury.communityforce.com/Funds/FundDetails.aspx?496F49596D593768464E3537506B6F754D5442315A77465A727653647A79786465367479645A4D3568577432564D4250564A553958776A3446437A4E3666323775612F73653641316A73303D)
 
 **The Flanagan lab:** My group studies how and why complex traits and behaviours evolve, with a focus on sexually selected traits. We use a number of different methods to address these broad questions: studies of relevant traits and selection on those traits; genomic studies of signatures of selection; and theoretical simulation studies. 
 
