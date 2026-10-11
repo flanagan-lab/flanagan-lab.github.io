@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+August 2026: Skye Davis presented her preliminary emperor penguin genetics results at the SCAR conference in Norway.
+
 June 2026: Georgia Gwatkin's paper on little blue penguin nest selection has been [published in the Journal of Wildlife Management](https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/jwmg.70230)!
 
 May 2026: Skye Davis was awarded a travel grant to attend the Scientific Committee for Antarctic Research conference in Norway later this year.
@@ -33,17 +35,7 @@ November 2025: Juan Lee won an award for best student presentation at The Korean
 
 October 2025: Sarah left for a one-month excursion to Antarctica to join in on the field work for her collaborative project with Professor Michelle LaRue and colleagues, which focusses on the coexistence of emperor penguins, Weddell seals, and Adelie Penguins in the Ross Sea.
 
-September 2025: We are welcoming postdoctoral researcher Skye Davis and visiting MSc student Isla O'Donoghue to the lab this month. Skye will be investigating population genomics in emperor penguins and Isla will be focussed on ticks feeding on kororā. Welcome, both!
 
-September 2025: Nan Hauser submitted her PhD thesis!
-
-August 2025: Emily Beasley successfully passed the oral examination of her PhD thesis! 
-
-July 2025: The [special issue in Molecular Ecology on the Ecology of Gene Expression](https://onlinelibrary.wiley.com/toc/1365294x/2025/34/15) that Sarah co-edited is now published, alongside the [editorial Sarah contributed to](https://onlinelibrary.wiley.com/doi/10.1111/mec.70035)!
-
-May 2025: Emily Beasley submitted her PhD thesis for examination!
-
-February 2025: Sarah appeared on [RNZ's Afternoons with Jesse Mulligan](https://www.rnz.co.nz/national/programmes/afternoons/audio/2018975364/super-genes-what-are-they-and-do-we-really-need-them) to discuss her recent paper on supergenes. Click the link to listen!
 
 January 2025: Belle Hartshorn has joined the lab to do her BSc(Hons). Welcome, Belle!
 
