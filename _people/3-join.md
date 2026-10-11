@@ -10,11 +10,15 @@ permalink: /people/join
 
 ### I AM SEEKING A PHD STUDENT
 
-I am seeking a PhD student interested in studying conservation genomics in penguins. [Read more about the opportunity and apply on the UC portal]([https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/postdoc_ad_penguins.pdf](https://scholarshipscanterbury.communityforce.com/Funds/FundDetails.aspx?496F49596D593768464E3537506B6F754D5442315A77465A727653647A79786465367479645A4D3568577432564D4250564A553958776A3446437A4E3666323775612F73653641316A73303D). 
+I am seeking a PhD student interested in studying conservation genomics in penguins. [Read more about the opportunity and apply on the UC portal](https://scholarshipscanterbury.communityforce.com/Funds/FundDetails.aspx?496F49596D593768464E3537506B6F754D5442315A77465A727653647A79786465367479645A4D3568577432564D4250564A553958776A3446437A4E3666323775612F73653641316A73303D). 
 
 ### Prospective postgraduate (masters or PhD) students
 
-If you are interested in the research we are doing in my lab and would like to join, please get in touch! First check your eligibility by perusing the [UC eligibility requirements](https://www.canterbury.ac.nz/enrol/doctoral/apply/). If you are eligible and interested, please [email me](sarah.flanagan@canterbury.ac.nz) with your CV and a brief summary of your research interests. 
+If you are interested in the research we are doing in my lab and would like to join, please get in touch! First check your eligibility by perusing the [UC eligibility requirements](https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/become-a-research-student). If you are eligible and interested, please [email me](sarah.flanagan@canterbury.ac.nz) with your CV and a brief summary of your research interests. 
+
+### Prospective internship students from other universities
+
+Any visiting students need to enrol in a course at the University of Canterbury, [BIOL307](https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=BIOL307), which does incur international student fees. Enrolling in the course does not require formal coursework, as your internship visit is the expected coursework. Please [contact me](sarah.flanagan@canterbury.ac.nz) with information on your degree programme, internship duration and requirements, and your research interests. 
 
 ### UC students considering an honours or masters
 
