@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+October 2026: Coley Tosto's final paper from her PhD has been published in the [Journal of Evolutionary Biology](https://doi.org/10.1093/jeb/voag112)!
+
 August 2026: Skye Davis presented her preliminary emperor penguin genetics results at the SCAR conference in Norway.
 
 June 2026: Georgia Gwatkin's paper on little blue penguin nest selection has been [published in the Journal of Wildlife Management](https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/jwmg.70230)!
