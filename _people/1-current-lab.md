@@ -33,9 +33,16 @@ Sarah's research focuses on the evolution of complex traits and how selection in
 <br>
 <br>
 
+### XiaoYuan Li (Lily)
+<img align="right" src='/images/LilyXiaoyuan.jpeg' width="30%" height="30%"> Lily is a PhD student whose research is focused on sexual selection in pipefish, particularly the evolution and function of female ornaments! She plans to use genomic approaches and behavioural observations to investigate these topics. Her previous research focused on sexual dimorphism in long-tailed shrew (A tiny cutie with a super-fast metabolism!). She is broadly interested in evolutionary biology and animal behaviour, and she has experience in bioinformatics and data analysis using R.
+
+<br>
+<br>
+<br>
+
 ### Juan Lee
 
-<img align="right" src='/images/JuanLee.jpeg' width="30%" height="30%"> Juan is a PhD student working on pipefish taxonomy, phylogeography, and population genetics. His MSc work in South Korea focused on behaviour and developmental biology, and he is exciting to be working on syngnathid genetics for his PhD. 
+<img align="left" src='/images/JuanLee.jpeg' width="30%" height="30%"> Juan is a PhD student working on pipefish taxonomy, phylogeography, and population genetics. His MSc work in South Korea focused on behaviour and developmental biology, and he is exciting to be working on syngnathid genetics for his PhD. 
 <br>
 <br>
 <br>
