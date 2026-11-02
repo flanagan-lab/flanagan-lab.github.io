@@ -15,6 +15,10 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+November 2026: We are welcoming a new PhD student, Xiaoyuan Li (Lily), who will be working on evolution of female ornaments in pipefish. Welcome, Lily!
+
+October 2026: Juan Lee has submitted his PhD!
+
 October 2026: Coley Tosto's final paper from her PhD has been published in the [Journal of Evolutionary Biology](https://doi.org/10.1093/jeb/voag112)!
 
 August 2026: Skye Davis presented her preliminary emperor penguin genetics results at the SCAR conference in Norway.
