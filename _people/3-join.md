@@ -8,9 +8,6 @@ permalink: /people/join
 
 ## Join the lab
 
-### I AM SEEKING A PHD STUDENT
-
-I am seeking a PhD student interested in studying conservation genomics in penguins. [Read more about the opportunity and apply on the UC portal](https://scholarshipscanterbury.communityforce.com/Funds/FundDetails.aspx?496F49596D593768464E3537506B6F754D5442315A77465A727653647A79786465367479645A4D3568577432564D4250564A553958776A3446437A4E3666323775612F73653641316A73303D). 
 
 ### Prospective postgraduate (masters or PhD) students
 
@@ -30,3 +27,7 @@ My lab is inclusive, welcoming, and committed to advancing diversity; I welcome 
 
 
 For more information on pursuing a postgraduate degree at the University of Canterbury, please take a look at the [handbook](http://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/postgraduate-study/).
+
+### A word of advice
+
+Sarah receives many expressions of interest to work with her, most of which are generic and seem to be drafted by an Artificial Intelligence LLM. These types of emails are not well-received, as they do not convey the things that distinguish you from other applicants. The strongest expressions of interest convey your passion or motivation for the research questions, identify why the Flanagan lab **in particular** is appealing to you, and outline specific details about the type(s) of research experience(s) you are hoping to achieve in the Flanagan Lab. [This blog post](https://blekhman.substack.com/p/why-i-am-not-reading-your-ai-generated) describes in detail some of the reasons that an AI-generated email are not particularly effective. 
