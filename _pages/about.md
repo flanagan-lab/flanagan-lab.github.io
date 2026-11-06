@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+November 2026: Sarah & Skye are coauthors on a new collaborative paper out in [Ecology and Evolution on genetic sexing of emperor penguins](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.74654)!
+
 November 2026: We are welcoming a new PhD student, Xiaoyuan Li (Lily), who will be working on evolution of female ornaments in pipefish. Welcome, Lily!
 
 October 2026: Juan Lee has submitted his PhD!
