@@ -15,6 +15,10 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+November 2026: Emily Beasley's first publication from her PhD is now [available online in BMC Genomics](https://link.springer.com/article/10.1186/s12864-026-13528-7), on gene expression in the ihe ihu roa (_Stigmatopora macropterygia_)
+
+November 2026: Skye gave a great seminar in the School of Biological Science's seminar series! 
+
 November 2026: Sarah has been promoted to Associate Professor!
 
 November 2026: Sarah & Skye are coauthors on a new collaborative paper out in [Ecology and Evolution on genetic sexing of emperor penguins](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.74654)!
