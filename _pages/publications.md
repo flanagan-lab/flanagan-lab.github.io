@@ -15,7 +15,7 @@ Co-first authorship is denoted by *.
 
 <ol reversed>
 
-<li><span style="color:#239B56">Beasley</span>, ER, Wong BB, Cameron EZ, <strong>Flanagan SP</strong>. (2026) Transcriptomic sexual dimorphism in the unornamented ihe ihu roa (<i>Stigmatopora macropterygia</i>). BMC Genomics. <a href="https://doi.org/10.1186/s12864-026-13528-7" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a></li>
+<li><span style="color:#239B56">Beasley ER</span>, Wong BB, Cameron EZ, <strong>Flanagan SP</strong>. (2026) Transcriptomic sexual dimorphism in the unornamented ihe ihu roa (<i>Stigmatopora macropterygia</i>). BMC Genomics. <a href="https://doi.org/10.1186/s12864-026-13528-7" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a></li>
 
 <li>Ooi V, Smith SR, <span style="color:#239B56">Davis S</span>, Thompson DR, Pinkerton MH, <strong>Flanagan SP</strong>, LaRue M, McDonald BI. (2026). A robust assay for molecular sexing of emperor penguins using degraded DNA and the potential applicability to other spheniscids. Ecology and Evolution 16 (11): e74654. <a href="https://onlinelibrary.wiley.com/doi/10.1002/ece3.74654" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Ecology and Evolution - 2026 - Ooi - A Robust Assay for Molecular Sexing of Emperor Penguins Using Degraded DNA and the.pdf" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a></li>
 
